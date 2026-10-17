@@ -1,0 +1,548 @@
+[
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 1000
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 7244
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 7579
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 2580
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 3000
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 3343
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 2634
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 3518
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 4085
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 8484
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 8886
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 2775
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 3300
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 3729
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 2490
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/grid",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 3433
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 2538
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 4498
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 4678
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 2825
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 3294
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 3677
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 3080
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/list",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 4130
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 1672
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 1524
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 1524
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 2376
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 2318
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 2318
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 2599
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/about",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 2483
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 5362
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 5254
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 5254
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 3984
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 3984
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 3966
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 7110
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/works/coffee-owl",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 7047
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 320,
+    "passed": true,
+    "measured": {
+      "width": 320,
+      "body": 320,
+      "height": 4237
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 768,
+    "passed": true,
+    "measured": {
+      "width": 768,
+      "body": 768,
+      "height": 6211
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 809,
+    "passed": true,
+    "measured": {
+      "width": 809,
+      "body": 809,
+      "height": 6426
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 810,
+    "passed": true,
+    "measured": {
+      "width": 810,
+      "body": 810,
+      "height": 3018
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 1024,
+    "passed": true,
+    "measured": {
+      "width": 1024,
+      "body": 1024,
+      "height": 3213
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 1199,
+    "passed": true,
+    "measured": {
+      "width": 1199,
+      "body": 1199,
+      "height": 3442
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 1200,
+    "passed": true,
+    "measured": {
+      "width": 1200,
+      "body": 1200,
+      "height": 2800
+    }
+  },
+  {
+    "check": "responsive overflow",
+    "route": "/news",
+    "viewport": 1920,
+    "passed": true,
+    "measured": {
+      "width": 1920,
+      "body": 1920,
+      "height": 3149
+    }
+  },
+  {
+    "check": "list hover images",
+    "passed": true,
+    "images": [
+      {
+        "src": "http://127.0.0.1:4174/_framer/images/MYWP8mgEykwLGGA7i7EPG2Nlo.png?width=720&height=900",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "check": "404 status and home link",
+    "passed": true
+  },
+  {
+    "check": "keyboard Tab reaches a link",
+    "passed": true
+  }
+]

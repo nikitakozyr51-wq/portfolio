@@ -1,0 +1,67 @@
+[
+  {
+    "check": "home → grid",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/works/grid"
+  },
+  {
+    "check": "grid → list",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/works/list"
+  },
+  {
+    "check": "list → Branding category",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/categories/branding/list"
+  },
+  {
+    "check": "category → Coffee Owl case",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/works/coffee-owl"
+  },
+  {
+    "check": "browser Back",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/categories/branding/list"
+  },
+  {
+    "check": "menu identity and contacts",
+    "passed": true
+  },
+  {
+    "check": "mobile menu opens",
+    "passed": true,
+    "visible_text": "Nick Kozyrev\n\nmenu\n\ndesign\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist\n\nBRANDING\n\nMOTION DESIGN\n\nFast Bill\n\nBRANDING\n\nCoffee Owl\n\nMOTION DESIGN\n\nKringga Showreel\n\nMOTION DESIGN\n\nTrustat\n\nMOTION DESIGN\n\nUnion Studio\n\nMOTION DESIGN\n\nGhost VPN\n\nMOTION DESIGN\n\nRIk Showreels "
+  },
+  {
+    "check": "mobile menu → About",
+    "passed": true,
+    "url": "http://127.0.0.1:4174/about"
+  },
+  {
+    "check": "local Fast Bill MP4 playback",
+    "passed": true,
+    "currentTime": 1.31255,
+    "readyState": 4,
+    "src": "http://127.0.0.1:4174/_framer/assets/Tw4aSz33YCivbg98TVz0iWdVS4.mp4"
+  },
+  {
+    "check": "Kinescope iframe loaded",
+    "passed": true,
+    "url": "https://kinescope.io/embed/uJbZyKSPZpcsYPXKNLup1a",
+    "buttons": [
+      ""
+    ],
+    "video_count": 1
+  },
+  {
+    "check": "Kinescope video playback",
+    "passed": true,
+    "currentTime": 1.977532,
+    "readyState": 4
+  },
+  {
+    "check": "Ghost VPN malformed video repaired",
+    "passed": true
+  }
+]

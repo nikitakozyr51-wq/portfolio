@@ -1,0 +1,44 @@
+[
+  {
+    "label": "original",
+    "last_title_box": {
+      "x": 10,
+      "y": 2325.671875,
+      "width": 92.5,
+      "height": 18
+    }
+  },
+  {
+    "label": "candidate",
+    "last_title_box": {
+      "x": 10,
+      "y": 2325.8125,
+      "width": 92.5,
+      "height": 18
+    }
+  },
+  {
+    "animated_template_icon": [
+      [
+        {
+          "tag": "A",
+          "transform": "matrix(1, 0, 0, 1, 0, 4.46048)"
+        },
+        {
+          "tag": "A",
+          "transform": "none"
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "transform": "matrix(0.962199, 0.272347, -0.272347, 0.962199, 0, -6.5)"
+        },
+        {
+          "tag": "DIV",
+          "transform": "matrix(0.791309, 0.611417, -0.611417, 0.791309, 0, -6.5)"
+        }
+      ]
+    ]
+  }
+]

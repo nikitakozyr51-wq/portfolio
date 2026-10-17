@@ -1,0 +1,20 @@
+{
+  "name": "desire-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "design:validate": "node scripts/validate-design.mjs"
+  },
+  "devDependencies": {
+    "acorn": "8.15.0",
+    "typescript": "5.9.3"
+  }
+}
