@@ -1,0 +1,1069 @@
+{
+  "text": "Nick Kozyrev\n\nworks\n\nabout\n\nget in touch\n\nIn the new frontier of creative technology, design and code have merged into a single expressive medium. What was once purely functional — lines of code, motion triggers, system logic — is now a field for artistic emotion. Studios like Sonori are at the edge of this transformation, where the digital becomes tactile, and interaction becomes feeling.\n\nThis evolution goes beyond aesthetic appeal. Digital art is no longer about visuals on a screen — it’s about creating presence. Each scroll or motion element reflects the pulse of an idea, transforming websites into evolving artworks. The boundaries between UI, motion, and installation blur as designers adopt cinematic language and architectural precision.\n\nTechnology once stood behind design — invisible, mechanical, and silent. Today, it’s the material itself. The new generation of designers treats algorithms like clay, sensors like brushes, and data as pigment. The result is an aesthetic born not from surfaces but from behavior.\n\nSonori explores this language through subtle interaction: animations that respond to gaze, sound that reacts to scroll, microdelays that mirror human rhythm. Each digital space becomes a stage for perception — invisible, yet emotionally charged.\n\nSource:\n\nDesignboom\n\nAuthor:\n\nAdjaye Associates \n\nDigital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025\n\nother news\n\nArchitecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nMay 2025\n\nBeyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nMay 2025\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 5295,
+  "width": 1440,
+  "images": [
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/ceDxV9HoaEqWPbGBuehOT78Pqs.jpg?scale-down-to=1024&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 540
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/sClt7OtoC6V6Am2QLNbKwUaT0I.jpg?scale-down-to=1024&width=2000&height=1600",
+      "complete": true,
+      "naturalWidth": 675
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/Ipi81JT3T23vtIqXtlIRoBGgMSM.jpg?scale-down-to=1024&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 540
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/mWS9alY4ApCcpo3evdm7UFOoUI.jpg?scale-down-to=1024&width=2000&height=1600",
+      "complete": true,
+      "naturalWidth": 675
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/SXryCetZG8QkctJ66UIPHB9tY.jpg?scale-down-to=1024&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 540
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/4xPyOLABjPYHzlW9ZcXph06s60.jpg?scale-down-to=1024&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 675
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/g8Mzd6xLBE3yDzt6YgA5xLeR524.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 332
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/JcHwV0YuWCV3x9jNiDwbWGHcA.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 332
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Desktop",
+      "text": "Nick Kozyrev\n\nworks\n\nabout\n\nget in touch",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 41,
+        "top": 0,
+        "right": 1440,
+        "bottom": 41,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 20,
+        "y": 20,
+        "width": 78.34375,
+        "height": 21,
+        "top": 20,
+        "right": 98.34375,
+        "bottom": 41,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "works",
+      "box": {
+        "x": 628.3125,
+        "y": 20,
+        "width": 36.34375,
+        "height": 21,
+        "top": 20,
+        "right": 664.65625,
+        "bottom": 41,
+        "left": 628.3125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "works",
+      "box": {
+        "x": 628.3125,
+        "y": 20,
+        "width": 36.34375,
+        "height": 21,
+        "top": 20,
+        "right": 664.65625,
+        "bottom": 41,
+        "left": 628.3125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "about",
+      "box": {
+        "x": 674.65625,
+        "y": 20,
+        "width": 35.34375,
+        "height": 21,
+        "top": 20,
+        "right": 710,
+        "bottom": 41,
+        "left": 674.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "about",
+      "box": {
+        "x": 674.65625,
+        "y": 20,
+        "width": 35.34375,
+        "height": 21,
+        "top": 20,
+        "right": 710,
+        "bottom": 41,
+        "left": 674.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "get in touch",
+      "box": {
+        "x": 730,
+        "y": 20,
+        "width": 690,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 730
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "get in touch",
+      "box": {
+        "x": 1349.078125,
+        "y": 20,
+        "width": 70.921875,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 1349.078125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "get in touch",
+      "box": {
+        "x": 1349.078125,
+        "y": 20,
+        "width": 70.921875,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 1349.078125
+      }
+    },
+    {
+      "tag": "MAIN",
+      "name": "Body",
+      "text": "In the new frontier of creative technology, design and code have merged into a single expressive med",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 4181.359375,
+        "top": 0,
+        "right": 1440,
+        "bottom": 4181.359375,
+        "left": 0
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Article",
+      "text": "In the new frontier of creative technology, design and code have merged into a single expressive med",
+      "box": {
+        "x": 20,
+        "y": 60,
+        "width": 695,
+        "height": 4121.359375,
+        "top": 60,
+        "right": 715,
+        "bottom": 4181.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 60,
+        "width": 695,
+        "height": 600,
+        "top": 60,
+        "right": 715,
+        "bottom": 660,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Paragraph 1",
+      "text": "In the new frontier of creative technology, design and code have merged into a single expressive med",
+      "box": {
+        "x": 20,
+        "y": 670,
+        "width": 695,
+        "height": 228,
+        "top": 670,
+        "right": 715,
+        "bottom": 898,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Paragraph ",
+      "text": "In the new frontier of creative technology, design and code have merged into a single expressive med",
+      "box": {
+        "x": 20,
+        "y": 670,
+        "width": 556,
+        "height": 188,
+        "top": 670,
+        "right": 576,
+        "bottom": 858,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Img 1",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 908,
+        "width": 556,
+        "height": 505.453125,
+        "top": 908,
+        "right": 576,
+        "bottom": 1413.453125,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Img 2",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 1423.453125,
+        "width": 695,
+        "height": 631.8125,
+        "top": 1423.453125,
+        "right": 715,
+        "bottom": 2055.265625,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Paragraph 2",
+      "text": "Technology once stood behind design — invisible, mechanical, and silent. Today, it’s the material it",
+      "box": {
+        "x": 20,
+        "y": 2065.265625,
+        "width": 695,
+        "height": 247,
+        "top": 2065.265625,
+        "right": 715,
+        "bottom": 2312.265625,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content 2",
+      "text": "Technology once stood behind design — invisible, mechanical, and silent. Today, it’s the material it",
+      "box": {
+        "x": 20,
+        "y": 2105.265625,
+        "width": 556,
+        "height": 167,
+        "top": 2105.265625,
+        "right": 576,
+        "bottom": 2272.265625,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Img 3",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 2322.265625,
+        "width": 556,
+        "height": 631.8125,
+        "top": 2322.265625,
+        "right": 576,
+        "bottom": 2954.078125,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Img 4",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 2964.078125,
+        "width": 695,
+        "height": 631.8125,
+        "top": 2964.078125,
+        "right": 715,
+        "bottom": 3595.890625,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Img 5",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 3605.890625,
+        "width": 556,
+        "height": 483.46875,
+        "top": 3605.890625,
+        "right": 576,
+        "bottom": 4089.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Credits",
+      "text": "Source:\n\nDesignboom\n\nAuthor:\n\nAdjaye Associates ",
+      "box": {
+        "x": 20,
+        "y": 4099.359375,
+        "width": 695,
+        "height": 82,
+        "top": 4099.359375,
+        "right": 715,
+        "bottom": 4181.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Source:",
+      "box": {
+        "x": 20,
+        "y": 4139.359375,
+        "width": 173.75,
+        "height": 21,
+        "top": 4139.359375,
+        "right": 193.75,
+        "bottom": 4160.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "Designboom",
+      "box": {
+        "x": 193.75,
+        "y": 4139.359375,
+        "width": 76.40625,
+        "height": 21,
+        "top": 4139.359375,
+        "right": 270.15625,
+        "bottom": 4160.359375,
+        "left": 193.75
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "Designboom",
+      "box": {
+        "x": 193.75,
+        "y": 4139.359375,
+        "width": 76.40625,
+        "height": 21,
+        "top": 4139.359375,
+        "right": 270.15625,
+        "bottom": 4160.359375,
+        "left": 193.75
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Author:",
+      "box": {
+        "x": 20,
+        "y": 4160.359375,
+        "width": 173.75,
+        "height": 21,
+        "top": 4160.359375,
+        "right": 193.75,
+        "bottom": 4181.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "Adjaye Associates ",
+      "box": {
+        "x": 193.75,
+        "y": 4160.359375,
+        "width": 114.140625,
+        "height": 21,
+        "top": 4160.359375,
+        "right": 307.890625,
+        "bottom": 4181.359375,
+        "left": 193.75
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "Adjaye Associates ",
+      "box": {
+        "x": 193.75,
+        "y": 4160.359375,
+        "width": 114.140625,
+        "height": 21,
+        "top": 4160.359375,
+        "right": 307.890625,
+        "bottom": 4181.359375,
+        "left": 193.75
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Cover",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025",
+      "box": {
+        "x": 725,
+        "y": 60,
+        "width": 695,
+        "height": 920,
+        "top": 60,
+        "right": 1420,
+        "bottom": 980,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Banner",
+      "text": "",
+      "box": {
+        "x": 725,
+        "y": 60,
+        "width": 695,
+        "height": 483.46875,
+        "top": 60,
+        "right": 1420,
+        "bottom": 543.46875,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025",
+      "box": {
+        "x": 725,
+        "y": 543.46875,
+        "width": 695,
+        "height": 436.53125,
+        "top": 543.46875,
+        "right": 1420,
+        "bottom": 980,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas",
+      "box": {
+        "x": 725,
+        "y": 563.46875,
+        "width": 695,
+        "height": 115.1875,
+        "top": 563.46875,
+        "right": 1420,
+        "bottom": 678.65625,
+        "left": 725
+      }
+    },
+    {
+      "tag": "H3",
+      "name": null,
+      "text": "Digital Poetics — When Code Becomes Canvas",
+      "box": {
+        "x": 725,
+        "y": 563.46875,
+        "width": 695,
+        "height": 115.1875,
+        "top": 563.46875,
+        "right": 1420,
+        "bottom": 678.65625,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Info",
+      "text": "Digital Art\n\nOCT 2025",
+      "box": {
+        "x": 725,
+        "y": 938,
+        "width": 695,
+        "height": 42,
+        "top": 938,
+        "right": 1420,
+        "bottom": 980,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "Digital Art",
+      "box": {
+        "x": 725,
+        "y": 938,
+        "width": 695,
+        "height": 21,
+        "top": 938,
+        "right": 1420,
+        "bottom": 959,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "OCT 2025",
+      "box": {
+        "x": 725,
+        "y": 959,
+        "width": 695,
+        "height": 21,
+        "top": 959,
+        "right": 1420,
+        "bottom": 980,
+        "left": 725
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Other works",
+      "text": "other news\n\nArchitecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speakin",
+      "box": {
+        "x": 0,
+        "y": 4181.359375,
+        "width": 1440,
+        "height": 1113.71875,
+        "top": 4181.359375,
+        "right": 1440,
+        "bottom": 5295.078125,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 4381.359375,
+        "width": 695,
+        "height": 21,
+        "top": 4381.359375,
+        "right": 715,
+        "bottom": 4402.359375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "other news",
+      "box": {
+        "x": 725,
+        "y": 4381.359375,
+        "width": 342.5,
+        "height": 21,
+        "top": 4381.359375,
+        "right": 1067.5,
+        "bottom": 4402.359375,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 4402.359375,
+        "width": 695,
+        "height": 592.71875,
+        "top": 4402.359375,
+        "right": 715,
+        "bottom": 4995.078125,
+        "left": 20
+      }
+    },
+    {
+      "tag": "SPAN",
+      "name": "Title + Sub",
+      "text": "Architecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside ",
+      "box": {
+        "x": 725,
+        "y": 4442.359375,
+        "width": 342.5,
+        "height": 552.71875,
+        "top": 4442.359375,
+        "right": 1067.5,
+        "bottom": 4995.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 725,
+        "y": 4442.359375,
+        "width": 342.5,
+        "height": 298.90625,
+        "top": 4442.359375,
+        "right": 1067.5,
+        "bottom": 4741.265625,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Architecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside ",
+      "box": {
+        "x": 725,
+        "y": 4761.265625,
+        "width": 342.5,
+        "height": 233.8125,
+        "top": 4761.265625,
+        "right": 1067.5,
+        "bottom": 4995.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Architecture in Motion — The New Language of Digital Space",
+      "box": {
+        "x": 725,
+        "y": 4761.265625,
+        "width": 308.25,
+        "height": 140.8125,
+        "top": 4761.265625,
+        "right": 1033.25,
+        "bottom": 4902.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 725,
+        "y": 4912.078125,
+        "width": 274,
+        "height": 42,
+        "top": 4912.078125,
+        "right": 999,
+        "bottom": 4954.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 725,
+        "y": 4964.078125,
+        "width": 342.5,
+        "height": 31,
+        "top": 4964.078125,
+        "right": 1067.5,
+        "bottom": 4995.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 725,
+        "y": 4974.078125,
+        "width": 342.5,
+        "height": 21,
+        "top": 4974.078125,
+        "right": 1067.5,
+        "bottom": 4995.078125,
+        "left": 725
+      }
+    },
+    {
+      "tag": "SPAN",
+      "name": "Title + Sub",
+      "text": "Beyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of ",
+      "box": {
+        "x": 1077.5,
+        "y": 4442.359375,
+        "width": 342.5,
+        "height": 517.515625,
+        "top": 4442.359375,
+        "right": 1420,
+        "bottom": 4959.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 1077.5,
+        "y": 4442.359375,
+        "width": 342.5,
+        "height": 298.90625,
+        "top": 4442.359375,
+        "right": 1420,
+        "bottom": 4741.265625,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Beyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of ",
+      "box": {
+        "x": 1077.5,
+        "y": 4761.265625,
+        "width": 342.5,
+        "height": 198.609375,
+        "top": 4761.265625,
+        "right": 1420,
+        "bottom": 4959.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Beyond the Screen — The Future of Digital Presence",
+      "box": {
+        "x": 1077.5,
+        "y": 4761.265625,
+        "width": 308.25,
+        "height": 105.609375,
+        "top": 4761.265625,
+        "right": 1385.75,
+        "bottom": 4866.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 1077.5,
+        "y": 4876.875,
+        "width": 274,
+        "height": 42,
+        "top": 4876.875,
+        "right": 1351.5,
+        "bottom": 4918.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 1077.5,
+        "y": 4928.875,
+        "width": 342.5,
+        "height": 31,
+        "top": 4928.875,
+        "right": 1420,
+        "bottom": 4959.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 1077.5,
+        "y": 4938.875,
+        "width": 342.5,
+        "height": 21,
+        "top": 4938.875,
+        "right": 1420,
+        "bottom": 4959.875,
+        "left": 1077.5
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 5244.078125,
+        "width": 1440,
+        "height": 51,
+        "top": 5244.078125,
+        "right": 1440,
+        "bottom": 5295.078125,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 20,
+        "y": 5244.078125,
+        "width": 1400,
+        "height": 21,
+        "top": 5244.078125,
+        "right": 1420,
+        "bottom": 5265.078125,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 30,
+        "y": 5244.078125,
+        "width": 115.453125,
+        "height": 21,
+        "top": 5244.078125,
+        "right": 145.453125,
+        "bottom": 5265.078125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 1336.453125,
+        "y": 5244.078125,
+        "width": 73.546875,
+        "height": 21,
+        "top": 5244.078125,
+        "right": 1410,
+        "bottom": 5265.078125,
+        "left": 1336.453125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 1356.453125,
+        "y": 5244.078125,
+        "width": 53.546875,
+        "height": 21,
+        "top": 5244.078125,
+        "right": 1410,
+        "bottom": 5265.078125,
+        "left": 1356.453125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 1356.453125,
+        "y": 5244.078125,
+        "width": 53.546875,
+        "height": 21,
+        "top": 5244.078125,
+        "right": 1410,
+        "bottom": 5265.078125,
+        "left": 1356.453125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 5270.078125,
+        "width": 1400,
+        "height": 5,
+        "top": 5270.078125,
+        "right": 1420,
+        "bottom": 5275.078125,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 1281,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 1419,
+        "bottom": 979,
+        "left": 1281
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 1290.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 1409.5,
+        "bottom": 969,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 1290.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 1302.5,
+        "bottom": 971,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 1312.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 1409.5,
+        "bottom": 966,
+        "left": 1312.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    }
+  ]
+}

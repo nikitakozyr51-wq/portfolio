@@ -1,0 +1,13 @@
+{
+  "screens": 56,
+  "nodes": 12631,
+  "editableText": 2575,
+  "imageLayers": 313,
+  "staticMediaLayers": 210,
+  "guideGroups": 56,
+  "references": 56,
+  "components": 31,
+  "assetFiles": 141,
+  "nativePenRenderValidated": false,
+  "schema": "2.21"
+}

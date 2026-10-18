@@ -1,0 +1,1259 @@
+{
+  "text": "Nick Kozyrev\n\nmenu\n\nWe document ideas in motion — from digital craft to visual storytelling. Here you’ll find essays, process notes, and studio reflections.\n\nDigital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025\n\nDigital Poetics — When Code Becomes Canvas\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nOCT 2025\n\nThe Aesthetics of Technology — Designing the Invisible\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nSep 2025\n\nHuman Machines — Art at the Edge of Intelligence\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nAug 2025\n\nGenerative Design — When Creativity Becomes Autonomous\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nJun 2025\n\nBeyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nMay 2025\n\nArchitecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Making Sense.”\n\nMay 2025\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 4525,
+  "width": 390,
+  "images": [
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/4xPyOLABjPYHzlW9ZcXph06s60.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 350
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/4xPyOLABjPYHzlW9ZcXph06s60.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 350
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/EF4VxdBufY7LvapKUPTSAJ2Z5k.jpg?scale-down-to=512&width=1800&height=1800",
+      "complete": true,
+      "naturalWidth": 330
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/fBW814krtfEUHJY9EIYdlNLNjE8.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 330
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/FyDw6Z4HPeCNdEY9HxcMlUfuAQ.jpg?scale-down-to=512&width=1800&height=1800",
+      "complete": true,
+      "naturalWidth": 330
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/JcHwV0YuWCV3x9jNiDwbWGHcA.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 330
+    },
+    {
+      "src": "http://127.0.0.1:4174/_framer/images/g8Mzd6xLBE3yDzt6YgA5xLeR524.jpg?scale-down-to=512&width=1600&height=1600",
+      "complete": true,
+      "naturalWidth": 330
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Phone",
+      "text": "Nick Kozyrev\n\nmenu",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 38,
+        "top": 0,
+        "right": 390,
+        "bottom": 38,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 10,
+        "y": 20,
+        "width": 67.15625,
+        "height": 18,
+        "top": 20,
+        "right": 77.15625,
+        "bottom": 38,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "menu",
+      "box": {
+        "x": 205,
+        "y": 20,
+        "width": 175,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Screen mobile",
+      "text": "We document ideas in motion — from digital craft to visual storytelling. Here you’ll find essays, pr",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 1000,
+        "top": 0,
+        "right": 390,
+        "bottom": 1000,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "We document ideas in motion — from digital craft to visual storytelling. Here you’ll find essays, pr",
+      "box": {
+        "x": 10,
+        "y": 80,
+        "width": 370,
+        "height": 264.578125,
+        "top": 80,
+        "right": 380,
+        "bottom": 344.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "We document ideas in motion — from digital craft to visual storytelling. Here you’ll find essays, pr",
+      "box": {
+        "x": 10,
+        "y": 80,
+        "width": 370,
+        "height": 264.578125,
+        "top": 80,
+        "right": 380,
+        "bottom": 344.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "H2",
+      "name": null,
+      "text": "We document ideas in motion — from digital craft to visual storytelling. Here you’ll find essays, pr",
+      "box": {
+        "x": 10,
+        "y": 80,
+        "width": 370,
+        "height": 264.578125,
+        "top": 80,
+        "right": 380,
+        "bottom": 344.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Works",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025",
+      "box": {
+        "x": 10,
+        "y": 863,
+        "width": 370,
+        "height": 97,
+        "top": 863,
+        "right": 380,
+        "bottom": 960,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Variant 1",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nDigital Art\n\nOCT 2025",
+      "box": {
+        "x": 10,
+        "y": 863,
+        "width": 370,
+        "height": 97,
+        "top": 863,
+        "right": 380,
+        "bottom": 960,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nDigital Art",
+      "box": {
+        "x": 10,
+        "y": 863,
+        "width": 370,
+        "height": 36,
+        "top": 863,
+        "right": 380,
+        "bottom": 899,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas",
+      "box": {
+        "x": 10,
+        "y": 863,
+        "width": 370,
+        "height": 18,
+        "top": 863,
+        "right": 380,
+        "bottom": 881,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Art",
+      "box": {
+        "x": 10,
+        "y": 881,
+        "width": 370,
+        "height": 18,
+        "top": 881,
+        "right": 380,
+        "bottom": 899,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "OCT 2025",
+      "box": {
+        "x": 10,
+        "y": 931,
+        "width": 53.71875,
+        "height": 18,
+        "top": 931,
+        "right": 63.71875,
+        "bottom": 949,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "OCT 2025",
+      "box": {
+        "x": 10,
+        "y": 931,
+        "width": 53.71875,
+        "height": 18,
+        "top": 931,
+        "right": 63.71875,
+        "bottom": 949,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 959,
+        "width": 370,
+        "height": 1,
+        "top": 959,
+        "right": 380,
+        "bottom": 960,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 1000,
+        "top": 0,
+        "right": 390,
+        "bottom": 1000,
+        "left": 0
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "News",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nWe’ll be in Budapest speaking alongside some of the desi",
+      "box": {
+        "x": 0,
+        "y": 1000,
+        "width": 390,
+        "height": 3524.71875,
+        "top": 1000,
+        "right": 390,
+        "bottom": 4524.71875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nWe’ll be in Budapest speaking alongside some of the desi",
+      "box": {
+        "x": 10,
+        "y": 1100,
+        "width": 370,
+        "height": 479.71875,
+        "top": 1100,
+        "right": 380,
+        "bottom": 1579.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nWe’ll be in Budapest speaking alongside some of the desi",
+      "box": {
+        "x": 10,
+        "y": 1100,
+        "width": 370,
+        "height": 479.71875,
+        "top": 1100,
+        "right": 380,
+        "bottom": 1579.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1100,
+        "width": 370,
+        "height": 322.90625,
+        "top": 1100,
+        "right": 380,
+        "bottom": 1422.90625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas\n\nWe’ll be in Budapest speaking alongside some of the desi",
+      "box": {
+        "x": 10,
+        "y": 1442.90625,
+        "width": 370,
+        "height": 136.8125,
+        "top": 1442.90625,
+        "right": 380,
+        "bottom": 1579.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Digital Poetics — When Code Becomes Canvas",
+      "box": {
+        "x": 10,
+        "y": 1442.90625,
+        "width": 333,
+        "height": 52.8125,
+        "top": 1442.90625,
+        "right": 343,
+        "bottom": 1495.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 1505.71875,
+        "width": 296,
+        "height": 36,
+        "top": 1505.71875,
+        "right": 306,
+        "bottom": 1541.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "OCT 2025",
+      "box": {
+        "x": 10,
+        "y": 1551.71875,
+        "width": 370,
+        "height": 28,
+        "top": 1551.71875,
+        "right": 380,
+        "bottom": 1579.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "OCT 2025",
+      "box": {
+        "x": 10,
+        "y": 1561.71875,
+        "width": 370,
+        "height": 18,
+        "top": 1561.71875,
+        "right": 380,
+        "bottom": 1579.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "The Aesthetics of Technology — Designing the Invisible\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 1643.71875,
+        "width": 370,
+        "height": 479.71875,
+        "top": 1643.71875,
+        "right": 380,
+        "bottom": 2123.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "The Aesthetics of Technology — Designing the Invisible\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 1643.71875,
+        "width": 370,
+        "height": 479.71875,
+        "top": 1643.71875,
+        "right": 380,
+        "bottom": 2123.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1643.71875,
+        "width": 370,
+        "height": 322.90625,
+        "top": 1643.71875,
+        "right": 380,
+        "bottom": 1966.625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "The Aesthetics of Technology — Designing the Invisible\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 1986.625,
+        "width": 370,
+        "height": 136.8125,
+        "top": 1986.625,
+        "right": 380,
+        "bottom": 2123.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "The Aesthetics of Technology — Designing the Invisible",
+      "box": {
+        "x": 10,
+        "y": 1986.625,
+        "width": 333,
+        "height": 52.8125,
+        "top": 1986.625,
+        "right": 343,
+        "bottom": 2039.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 2049.4375,
+        "width": 296,
+        "height": 36,
+        "top": 2049.4375,
+        "right": 306,
+        "bottom": 2085.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Sep 2025",
+      "box": {
+        "x": 10,
+        "y": 2095.4375,
+        "width": 370,
+        "height": 28,
+        "top": 2095.4375,
+        "right": 380,
+        "bottom": 2123.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Sep 2025",
+      "box": {
+        "x": 10,
+        "y": 2105.4375,
+        "width": 370,
+        "height": 18,
+        "top": 2105.4375,
+        "right": 380,
+        "bottom": 2123.4375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "Human Machines — Art at the Edge of Intelligence\n\nWe’ll be in Budapest speaking alongside some of th",
+      "box": {
+        "x": 10,
+        "y": 2187.4375,
+        "width": 370,
+        "height": 479.71875,
+        "top": 2187.4375,
+        "right": 380,
+        "bottom": 2667.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "Human Machines — Art at the Edge of Intelligence\n\nWe’ll be in Budapest speaking alongside some of th",
+      "box": {
+        "x": 10,
+        "y": 2187.4375,
+        "width": 370,
+        "height": 479.71875,
+        "top": 2187.4375,
+        "right": 380,
+        "bottom": 2667.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2187.4375,
+        "width": 370,
+        "height": 322.90625,
+        "top": 2187.4375,
+        "right": 380,
+        "bottom": 2510.34375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Human Machines — Art at the Edge of Intelligence\n\nWe’ll be in Budapest speaking alongside some of th",
+      "box": {
+        "x": 10,
+        "y": 2530.34375,
+        "width": 370,
+        "height": 136.8125,
+        "top": 2530.34375,
+        "right": 380,
+        "bottom": 2667.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Human Machines — Art at the Edge of Intelligence",
+      "box": {
+        "x": 10,
+        "y": 2530.34375,
+        "width": 333,
+        "height": 52.8125,
+        "top": 2530.34375,
+        "right": 343,
+        "bottom": 2583.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 2593.15625,
+        "width": 296,
+        "height": 36,
+        "top": 2593.15625,
+        "right": 306,
+        "bottom": 2629.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Aug 2025",
+      "box": {
+        "x": 10,
+        "y": 2639.15625,
+        "width": 370,
+        "height": 28,
+        "top": 2639.15625,
+        "right": 380,
+        "bottom": 2667.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Aug 2025",
+      "box": {
+        "x": 10,
+        "y": 2649.15625,
+        "width": 370,
+        "height": 18,
+        "top": 2649.15625,
+        "right": 380,
+        "bottom": 2667.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "Generative Design — When Creativity Becomes Autonomous\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 2731.15625,
+        "width": 370,
+        "height": 506.125,
+        "top": 2731.15625,
+        "right": 380,
+        "bottom": 3237.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "Generative Design — When Creativity Becomes Autonomous\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 2731.15625,
+        "width": 370,
+        "height": 506.125,
+        "top": 2731.15625,
+        "right": 380,
+        "bottom": 3237.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2731.15625,
+        "width": 370,
+        "height": 322.90625,
+        "top": 2731.15625,
+        "right": 380,
+        "bottom": 3054.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Generative Design — When Creativity Becomes Autonomous\n\nWe’ll be in Budapest speaking alongside some",
+      "box": {
+        "x": 10,
+        "y": 3074.0625,
+        "width": 370,
+        "height": 163.21875,
+        "top": 3074.0625,
+        "right": 380,
+        "bottom": 3237.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Generative Design — When Creativity Becomes Autonomous",
+      "box": {
+        "x": 10,
+        "y": 3074.0625,
+        "width": 333,
+        "height": 79.21875,
+        "top": 3074.0625,
+        "right": 343,
+        "bottom": 3153.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 3163.28125,
+        "width": 296,
+        "height": 36,
+        "top": 3163.28125,
+        "right": 306,
+        "bottom": 3199.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Jun 2025",
+      "box": {
+        "x": 10,
+        "y": 3209.28125,
+        "width": 370,
+        "height": 28,
+        "top": 3209.28125,
+        "right": 380,
+        "bottom": 3237.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "Jun 2025",
+      "box": {
+        "x": 10,
+        "y": 3219.28125,
+        "width": 370,
+        "height": 18,
+        "top": 3219.28125,
+        "right": 380,
+        "bottom": 3237.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "Beyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of ",
+      "box": {
+        "x": 10,
+        "y": 3301.28125,
+        "width": 370,
+        "height": 479.71875,
+        "top": 3301.28125,
+        "right": 380,
+        "bottom": 3781,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "Beyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of ",
+      "box": {
+        "x": 10,
+        "y": 3301.28125,
+        "width": 370,
+        "height": 479.71875,
+        "top": 3301.28125,
+        "right": 380,
+        "bottom": 3781,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3301.28125,
+        "width": 370,
+        "height": 322.90625,
+        "top": 3301.28125,
+        "right": 380,
+        "bottom": 3624.1875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Beyond the Screen — The Future of Digital Presence\n\nWe’ll be in Budapest speaking alongside some of ",
+      "box": {
+        "x": 10,
+        "y": 3644.1875,
+        "width": 370,
+        "height": 136.8125,
+        "top": 3644.1875,
+        "right": 380,
+        "bottom": 3781,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Beyond the Screen — The Future of Digital Presence",
+      "box": {
+        "x": 10,
+        "y": 3644.1875,
+        "width": 333,
+        "height": 52.8125,
+        "top": 3644.1875,
+        "right": 343,
+        "bottom": 3697,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 3707,
+        "width": 296,
+        "height": 36,
+        "top": 3707,
+        "right": 306,
+        "bottom": 3743,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 10,
+        "y": 3753,
+        "width": 370,
+        "height": 28,
+        "top": 3753,
+        "right": 380,
+        "bottom": 3781,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 10,
+        "y": 3763,
+        "width": 370,
+        "height": 18,
+        "top": 3763,
+        "right": 380,
+        "bottom": 3781,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "News card",
+      "text": "Architecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside ",
+      "box": {
+        "x": 10,
+        "y": 3845,
+        "width": 370,
+        "height": 479.71875,
+        "top": 3845,
+        "right": 380,
+        "bottom": 4324.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Title + Sub",
+      "text": "Architecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside ",
+      "box": {
+        "x": 10,
+        "y": 3845,
+        "width": 370,
+        "height": 479.71875,
+        "top": 3845,
+        "right": 380,
+        "bottom": 4324.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Cover",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3845,
+        "width": 370,
+        "height": 322.90625,
+        "top": 3845,
+        "right": 380,
+        "bottom": 4167.90625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Architecture in Motion — The New Language of Digital Space\n\nWe’ll be in Budapest speaking alongside ",
+      "box": {
+        "x": 10,
+        "y": 4187.90625,
+        "width": 370,
+        "height": 136.8125,
+        "top": 4187.90625,
+        "right": 380,
+        "bottom": 4324.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Architecture in Motion — The New Language of Digital Space",
+      "box": {
+        "x": 10,
+        "y": 4187.90625,
+        "width": 333,
+        "height": 52.8125,
+        "top": 4187.90625,
+        "right": 343,
+        "bottom": 4240.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Subtitle",
+      "text": "We’ll be in Budapest speaking alongside some of the design industry’s best minds on the topic of “Ma",
+      "box": {
+        "x": 10,
+        "y": 4250.71875,
+        "width": 296,
+        "height": 36,
+        "top": 4250.71875,
+        "right": 306,
+        "bottom": 4286.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 10,
+        "y": 4296.71875,
+        "width": 370,
+        "height": 28,
+        "top": 4296.71875,
+        "right": 380,
+        "bottom": 4324.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "May 2025",
+      "box": {
+        "x": 10,
+        "y": 4306.71875,
+        "width": 370,
+        "height": 18,
+        "top": 4306.71875,
+        "right": 380,
+        "bottom": 4324.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 4448.71875,
+        "width": 390,
+        "height": 76,
+        "top": 4448.71875,
+        "right": 390,
+        "bottom": 4524.71875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 10,
+        "y": 4448.71875,
+        "width": 370,
+        "height": 46,
+        "top": 4448.71875,
+        "right": 380,
+        "bottom": 4494.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 15,
+        "y": 4476.71875,
+        "width": 360,
+        "height": 18,
+        "top": 4476.71875,
+        "right": 375,
+        "bottom": 4494.71875,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4448.71875,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4448.71875,
+        "right": 60.90625,
+        "bottom": 4466.71875,
+        "left": 15
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4448.71875,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4448.71875,
+        "right": 60.90625,
+        "bottom": 4466.71875,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4448.71875,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4448.71875,
+        "right": 60.90625,
+        "bottom": 4466.71875,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 4499.71875,
+        "width": 370,
+        "height": 5,
+        "top": 4499.71875,
+        "right": 380,
+        "bottom": 4504.71875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 231,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 369,
+        "bottom": 979,
+        "left": 231
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 240.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 359.5,
+        "bottom": 969,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 240.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 252.5,
+        "bottom": 971,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 262.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 359.5,
+        "bottom": 966,
+        "left": 262.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    }
+  ]
+}

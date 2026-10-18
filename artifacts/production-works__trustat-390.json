@@ -1,0 +1,1223 @@
+{
+  "text": "Nick Kozyrev\n\nmenu\n\nTrustat\n\nClients\n\nTerran Collective\n\nService:\n\nMotion Design\n\nA promotional animation translating Trustat’s existing visual concept into a clear, engaging motion piece.\n\n2025\n\nabout\n\nTrustat needed a promotional animation built around an existing visual concept developed with the Kringga team. The studio provided the art direction and storyboard.\n\nI adapted the concept for animation, developing the timing, transitions, and visual flow across the sequence. I also edited the music to support the pacing and tone of the piece.\n\ncredits\n\nArt Direction\n\nNikita Rezonov\n\nArt Direction\n\nArsenii Sergeev\n\nStoryboard Design\n\nFedor Unculture\n\nother works\n\nFast Bill\n\n2025\n\nCoffee Owl\n\n2025\n\nKringga Showreel\n\n2025\n\nUnion Studio\n\n2023\n\nGhost VPN\n\n2026\n\nRIk Showreels \n\n2024-2025\n\nPunk Lab\n\n2025\n\nMidnight Club\n\n2024-2025\n\nLightning\n\n2024-2025\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 2075,
+  "width": 390,
+  "images": [],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Phone",
+      "text": "Nick Kozyrev\n\nmenu",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 38,
+        "top": 0,
+        "right": 390,
+        "bottom": 38,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 10,
+        "y": 20,
+        "width": 67.15625,
+        "height": 18,
+        "top": 20,
+        "right": 77.15625,
+        "bottom": 38,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "menu",
+      "box": {
+        "x": 205,
+        "y": 20,
+        "width": 175,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Hero",
+      "text": "Trustat\n\nClients\n\nTerran Collective\n\nService:\n\nMotion Design\n\nA promotional animation translating Tr",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 871.796875,
+        "top": 0,
+        "right": 390,
+        "bottom": 871.796875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mobile",
+      "text": "Trustat\n\nClients\n\nTerran Collective\n\nService:\n\nMotion Design\n\nA promotional animation translating Tr",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 871.796875,
+        "top": 0,
+        "right": 390,
+        "bottom": 871.796875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 600,
+        "top": 0,
+        "right": 390,
+        "bottom": 600,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "Trustat\n\nClients\n\nTerran Collective\n\nService:\n\nMotion Design\n\nA promotional animation translating Tr",
+      "box": {
+        "x": 0,
+        "y": 620,
+        "width": 390,
+        "height": 251.796875,
+        "top": 620,
+        "right": 390,
+        "bottom": 871.796875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Trustat",
+      "box": {
+        "x": 10,
+        "y": 620,
+        "width": 370,
+        "height": 37.796875,
+        "top": 620,
+        "right": 380,
+        "bottom": 657.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "H2",
+      "name": null,
+      "text": "Trustat",
+      "box": {
+        "x": 10,
+        "y": 620,
+        "width": 370,
+        "height": 37.796875,
+        "top": 620,
+        "right": 380,
+        "bottom": 657.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Clients",
+      "text": "Clients\n\nTerran Collective",
+      "box": {
+        "x": 10,
+        "y": 672.796875,
+        "width": 370,
+        "height": 40,
+        "top": 672.796875,
+        "right": 380,
+        "bottom": 712.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Clients",
+      "box": {
+        "x": 10,
+        "y": 672.796875,
+        "width": 35,
+        "height": 18,
+        "top": 672.796875,
+        "right": 45,
+        "bottom": 690.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Clients",
+      "text": "Terran Collective",
+      "box": {
+        "x": 10,
+        "y": 694.796875,
+        "width": 86.515625,
+        "height": 18,
+        "top": 694.796875,
+        "right": 96.515625,
+        "bottom": 712.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Service",
+      "text": "Service:\n\nMotion Design",
+      "box": {
+        "x": 10,
+        "y": 727.796875,
+        "width": 370,
+        "height": 40,
+        "top": 727.796875,
+        "right": 380,
+        "bottom": 767.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Service:",
+      "box": {
+        "x": 10,
+        "y": 727.796875,
+        "width": 41.421875,
+        "height": 18,
+        "top": 727.796875,
+        "right": 51.421875,
+        "bottom": 745.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Motion Design",
+      "box": {
+        "x": 10,
+        "y": 749.796875,
+        "width": 74.390625,
+        "height": 18,
+        "top": 749.796875,
+        "right": 84.390625,
+        "bottom": 767.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Intro",
+      "text": "A promotional animation translating Trustat’s existing visual concept into a clear, engaging motion ",
+      "box": {
+        "x": 10,
+        "y": 782.796875,
+        "width": 296,
+        "height": 36,
+        "top": 782.796875,
+        "right": 306,
+        "bottom": 818.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "2025",
+      "box": {
+        "x": 10,
+        "y": 833.796875,
+        "width": 370,
+        "height": 18,
+        "top": 833.796875,
+        "right": 380,
+        "bottom": 851.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "About",
+      "text": "about\n\nTrustat needed a promotional animation built around an existing visual concept developed with",
+      "box": {
+        "x": 0,
+        "y": 871.796875,
+        "width": 390,
+        "height": 458,
+        "top": 871.796875,
+        "right": 390,
+        "bottom": 1329.796875,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "about\n\nTrustat needed a promotional animation built around an existing visual concept developed with",
+      "box": {
+        "x": 10,
+        "y": 891.796875,
+        "width": 370,
+        "height": 166,
+        "top": 891.796875,
+        "right": 380,
+        "bottom": 1057.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "about",
+      "box": {
+        "x": 10,
+        "y": 891.796875,
+        "width": 370,
+        "height": 18,
+        "top": 891.796875,
+        "right": 380,
+        "bottom": 909.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Trustat needed a promotional animation built around an existing visual concept developed with the Kr",
+      "box": {
+        "x": 10,
+        "y": 929.796875,
+        "width": 370,
+        "height": 128,
+        "top": 929.796875,
+        "right": 380,
+        "bottom": 1057.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "List positions",
+      "text": "credits\n\nArt Direction\n\nNikita Rezonov\n\nArt Direction\n\nArsenii Sergeev\n\nStoryboard Design\n\nFedor Unc",
+      "box": {
+        "x": 10,
+        "y": 1137.796875,
+        "width": 370,
+        "height": 92,
+        "top": 1137.796875,
+        "right": 380,
+        "bottom": 1229.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "credits",
+      "box": {
+        "x": 10,
+        "y": 1137.796875,
+        "width": 370,
+        "height": 38,
+        "top": 1137.796875,
+        "right": 380,
+        "bottom": 1175.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "credits",
+      "text": "credits",
+      "box": {
+        "x": 10,
+        "y": 1137.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1137.796875,
+        "right": 380,
+        "bottom": 1155.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Art Direction\n\nNikita Rezonov",
+      "box": {
+        "x": 10,
+        "y": 1175.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1175.796875,
+        "right": 380,
+        "bottom": 1193.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Position",
+      "text": "Art Direction",
+      "box": {
+        "x": 10,
+        "y": 1175.796875,
+        "width": 175,
+        "height": 18,
+        "top": 1175.796875,
+        "right": 185,
+        "bottom": 1193.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Art Direction\n\nArsenii Sergeev",
+      "box": {
+        "x": 10,
+        "y": 1193.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1193.796875,
+        "right": 380,
+        "bottom": 1211.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Storyboard Design\n\nFedor Unculture",
+      "box": {
+        "x": 10,
+        "y": 1211.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1211.796875,
+        "right": 380,
+        "bottom": 1229.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Media",
+      "text": "other works\n\nFast Bill\n\n2025\n\nCoffee Owl\n\n2025\n\nKringga Showreel\n\n2025\n\nUnion Studio\n\n2023\n\nGhost VP",
+      "box": {
+        "x": 0,
+        "y": 1329.796875,
+        "width": 390,
+        "height": 744.78125,
+        "top": 1329.796875,
+        "right": 390,
+        "bottom": 2074.578125,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Fast Bill\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1680.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1680.578125,
+        "right": 380,
+        "bottom": 1698.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Fast Bill\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1680.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1680.578125,
+        "right": 380,
+        "bottom": 1698.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 1680.578125,
+        "width": 39.171875,
+        "height": 18,
+        "top": 1680.578125,
+        "right": 49.171875,
+        "bottom": 1698.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2025",
+      "box": {
+        "x": 352.984375,
+        "y": 1680.578125,
+        "width": 27.015625,
+        "height": 18,
+        "top": 1680.578125,
+        "right": 380,
+        "bottom": 1698.578125,
+        "left": 352.984375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Coffee Owl\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1702.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1702.578125,
+        "right": 380,
+        "bottom": 1720.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Coffee Owl\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1702.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1702.578125,
+        "right": 380,
+        "bottom": 1720.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 1702.578125,
+        "width": 57.6875,
+        "height": 18,
+        "top": 1702.578125,
+        "right": 67.6875,
+        "bottom": 1720.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2025",
+      "box": {
+        "x": 352.984375,
+        "y": 1702.578125,
+        "width": 27.015625,
+        "height": 18,
+        "top": 1702.578125,
+        "right": 380,
+        "bottom": 1720.578125,
+        "left": 352.984375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Kringga Showreel\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1724.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1724.578125,
+        "right": 380,
+        "bottom": 1742.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Kringga Showreel\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1724.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1724.578125,
+        "right": 380,
+        "bottom": 1742.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Kringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1724.578125,
+        "width": 90.96875,
+        "height": 18,
+        "top": 1724.578125,
+        "right": 100.96875,
+        "bottom": 1742.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2025",
+      "box": {
+        "x": 352.984375,
+        "y": 1724.578125,
+        "width": 27.015625,
+        "height": 18,
+        "top": 1724.578125,
+        "right": 380,
+        "bottom": 1742.578125,
+        "left": 352.984375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Union Studio\n\n2023",
+      "box": {
+        "x": 10,
+        "y": 1746.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1746.578125,
+        "right": 380,
+        "bottom": 1764.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Union Studio\n\n2023",
+      "box": {
+        "x": 10,
+        "y": 1746.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1746.578125,
+        "right": 380,
+        "bottom": 1764.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Union Studio",
+      "box": {
+        "x": 10,
+        "y": 1746.578125,
+        "width": 65.890625,
+        "height": 18,
+        "top": 1746.578125,
+        "right": 75.890625,
+        "bottom": 1764.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2023",
+      "box": {
+        "x": 352.671875,
+        "y": 1746.578125,
+        "width": 27.328125,
+        "height": 18,
+        "top": 1746.578125,
+        "right": 380,
+        "bottom": 1764.578125,
+        "left": 352.671875
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Ghost VPN\n\n2026",
+      "box": {
+        "x": 10,
+        "y": 1768.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1768.578125,
+        "right": 380,
+        "bottom": 1786.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Ghost VPN\n\n2026",
+      "box": {
+        "x": 10,
+        "y": 1768.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1768.578125,
+        "right": 380,
+        "bottom": 1786.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Ghost VPN",
+      "box": {
+        "x": 10,
+        "y": 1768.578125,
+        "width": 56.90625,
+        "height": 18,
+        "top": 1768.578125,
+        "right": 66.90625,
+        "bottom": 1786.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2026",
+      "box": {
+        "x": 353.328125,
+        "y": 1768.578125,
+        "width": 26.671875,
+        "height": 18,
+        "top": 1768.578125,
+        "right": 380,
+        "bottom": 1786.578125,
+        "left": 353.328125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "RIk Showreels \n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1790.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1790.578125,
+        "right": 380,
+        "bottom": 1808.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "RIk Showreels \n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1790.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1790.578125,
+        "right": 380,
+        "bottom": 1808.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "RIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 1790.578125,
+        "width": 75,
+        "height": 18,
+        "top": 1790.578125,
+        "right": 85,
+        "bottom": 1808.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2024-2025",
+      "box": {
+        "x": 321.140625,
+        "y": 1790.578125,
+        "width": 58.859375,
+        "height": 18,
+        "top": 1790.578125,
+        "right": 380,
+        "bottom": 1808.578125,
+        "left": 321.140625
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Punk Lab\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1812.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1812.578125,
+        "right": 380,
+        "bottom": 1830.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Punk Lab\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 1812.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1812.578125,
+        "right": 380,
+        "bottom": 1830.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Punk Lab",
+      "box": {
+        "x": 10,
+        "y": 1812.578125,
+        "width": 48.390625,
+        "height": 18,
+        "top": 1812.578125,
+        "right": 58.390625,
+        "bottom": 1830.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2025",
+      "box": {
+        "x": 352.984375,
+        "y": 1812.578125,
+        "width": 27.015625,
+        "height": 18,
+        "top": 1812.578125,
+        "right": 380,
+        "bottom": 1830.578125,
+        "left": 352.984375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Midnight Club\n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1834.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1834.578125,
+        "right": 380,
+        "bottom": 1852.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Midnight Club\n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1834.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1834.578125,
+        "right": 380,
+        "bottom": 1852.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Midnight Club",
+      "box": {
+        "x": 10,
+        "y": 1834.578125,
+        "width": 71.4375,
+        "height": 18,
+        "top": 1834.578125,
+        "right": 81.4375,
+        "bottom": 1852.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2024-2025",
+      "box": {
+        "x": 321.140625,
+        "y": 1834.578125,
+        "width": 58.859375,
+        "height": 18,
+        "top": 1834.578125,
+        "right": 380,
+        "bottom": 1852.578125,
+        "left": 321.140625
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Desktop",
+      "text": "Lightning\n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1856.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1856.578125,
+        "right": 380,
+        "bottom": 1874.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Lightning\n\n2024-2025",
+      "box": {
+        "x": 10,
+        "y": 1856.578125,
+        "width": 370,
+        "height": 18,
+        "top": 1856.578125,
+        "right": 380,
+        "bottom": 1874.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Lightning",
+      "box": {
+        "x": 10,
+        "y": 1856.578125,
+        "width": 47.53125,
+        "height": 18,
+        "top": 1856.578125,
+        "right": 57.53125,
+        "bottom": 1874.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "2024-2025",
+      "box": {
+        "x": 321.140625,
+        "y": 1856.578125,
+        "width": 58.859375,
+        "height": 18,
+        "top": 1856.578125,
+        "right": 380,
+        "bottom": 1874.578125,
+        "left": 321.140625
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 1998.578125,
+        "width": 390,
+        "height": 76,
+        "top": 1998.578125,
+        "right": 390,
+        "bottom": 2074.578125,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 10,
+        "y": 1998.578125,
+        "width": 370,
+        "height": 46,
+        "top": 1998.578125,
+        "right": 380,
+        "bottom": 2044.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 15,
+        "y": 2026.578125,
+        "width": 360,
+        "height": 18,
+        "top": 2026.578125,
+        "right": 375,
+        "bottom": 2044.578125,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 1998.578125,
+        "width": 45.90625,
+        "height": 18,
+        "top": 1998.578125,
+        "right": 60.90625,
+        "bottom": 2016.578125,
+        "left": 15
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 1998.578125,
+        "width": 45.90625,
+        "height": 18,
+        "top": 1998.578125,
+        "right": 60.90625,
+        "bottom": 2016.578125,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 1998.578125,
+        "width": 45.90625,
+        "height": 18,
+        "top": 1998.578125,
+        "right": 60.90625,
+        "bottom": 2016.578125,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2049.578125,
+        "width": 370,
+        "height": 5,
+        "top": 2049.578125,
+        "right": 380,
+        "bottom": 2054.578125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 231,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 369,
+        "bottom": 979,
+        "left": 231
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 240.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 359.5,
+        "bottom": 969,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 240.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 252.5,
+        "bottom": 971,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 262.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 359.5,
+        "bottom": 966,
+        "left": 262.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    }
+  ]
+}

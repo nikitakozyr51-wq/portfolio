@@ -1,0 +1,998 @@
+{
+  "text": "Nick Kozyrev\n\nmenu\n\n015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist\n\nFast Bill\n\nBranding\n\nMotion Design\n\n2025\n\nCoffee Owl\n\nBranding\n\n2025\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 1000,
+  "width": 390,
+  "images": [],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Phone",
+      "text": "Nick Kozyrev\n\nmenu",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 38,
+        "top": 0,
+        "right": 390,
+        "bottom": 38,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 10,
+        "y": 20,
+        "width": 67.15625,
+        "height": 18,
+        "top": 20,
+        "right": 77.15625,
+        "bottom": 38,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "menu",
+      "box": {
+        "x": 205,
+        "y": 20,
+        "width": 175,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "MAIN",
+      "name": "Content",
+      "text": "015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist\n\nFast Bill\n\nBranding\n\nM",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 951.375,
+        "top": 0,
+        "right": 390,
+        "bottom": 951.375,
+        "left": 0
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Group",
+      "text": "015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 10,
+        "y": 120,
+        "width": 370,
+        "height": 140,
+        "top": 120,
+        "right": 380,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Num",
+      "text": "015",
+      "box": {
+        "x": 10,
+        "y": 120,
+        "width": 175,
+        "height": 18,
+        "top": 120,
+        "right": 185,
+        "bottom": 138,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "works",
+      "box": {
+        "x": 205,
+        "y": 120,
+        "width": 175,
+        "height": 18,
+        "top": 120,
+        "right": 380,
+        "bottom": 138,
+        "left": 205
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "Service\n\nall\n\nBranding\n\nMotion Design",
+      "box": {
+        "x": 10,
+        "y": 178,
+        "width": 175,
+        "height": 82,
+        "top": 178,
+        "right": 185,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Service",
+      "box": {
+        "x": 10,
+        "y": 178,
+        "width": 38.578125,
+        "height": 18,
+        "top": 178,
+        "right": 48.578125,
+        "bottom": 196,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Filter",
+      "text": "all\n\nBranding\n\nMotion Design",
+      "box": {
+        "x": 10,
+        "y": 206,
+        "width": 175,
+        "height": 54,
+        "top": 206,
+        "right": 185,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Secondary Button M ",
+      "text": "all",
+      "box": {
+        "x": 10,
+        "y": 206,
+        "width": 11.328125,
+        "height": 18,
+        "top": 206,
+        "right": 21.328125,
+        "bottom": 224,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "all",
+      "box": {
+        "x": 10,
+        "y": 206,
+        "width": 11.328125,
+        "height": 18,
+        "top": 206,
+        "right": 21.328125,
+        "bottom": 224,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Branding",
+      "box": {
+        "x": 10,
+        "y": 224,
+        "width": 46.40625,
+        "height": 18,
+        "top": 224,
+        "right": 56.40625,
+        "bottom": 242,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Motion Design",
+      "box": {
+        "x": 10,
+        "y": 242,
+        "width": 74.390625,
+        "height": 18,
+        "top": 242,
+        "right": 84.390625,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "View",
+      "text": "view\n\nmasonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 205,
+        "y": 178,
+        "width": 175,
+        "height": 82,
+        "top": 178,
+        "right": 380,
+        "bottom": 260,
+        "left": 205
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "view",
+      "box": {
+        "x": 356.21875,
+        "y": 178,
+        "width": 23.78125,
+        "height": 18,
+        "top": 178,
+        "right": 380,
+        "bottom": 196,
+        "left": 356.21875
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Variants",
+      "text": "masonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 205,
+        "y": 206,
+        "width": 175,
+        "height": 54,
+        "top": 206,
+        "right": 380,
+        "bottom": 260,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Secondary Mobile M",
+      "text": "masonry",
+      "box": {
+        "x": 334.375,
+        "y": 206,
+        "width": 45.625,
+        "height": 18,
+        "top": 206,
+        "right": 380,
+        "bottom": 224,
+        "left": 334.375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "masonry",
+      "box": {
+        "x": 334.375,
+        "y": 206,
+        "width": 45.625,
+        "height": 18,
+        "top": 206,
+        "right": 380,
+        "bottom": 224,
+        "left": 334.375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Secondary Mobile M",
+      "text": "grid",
+      "box": {
+        "x": 360.3125,
+        "y": 224,
+        "width": 19.6875,
+        "height": 18,
+        "top": 224,
+        "right": 380,
+        "bottom": 242,
+        "left": 360.3125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "grid",
+      "box": {
+        "x": 360.3125,
+        "y": 224,
+        "width": 19.6875,
+        "height": 18,
+        "top": 224,
+        "right": 380,
+        "bottom": 242,
+        "left": 360.3125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile M",
+      "text": "list",
+      "box": {
+        "x": 365.921875,
+        "y": 242,
+        "width": 14.078125,
+        "height": 18,
+        "top": 242,
+        "right": 380,
+        "bottom": 260,
+        "left": 365.921875
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "list",
+      "box": {
+        "x": 365.921875,
+        "y": 242,
+        "width": 14.078125,
+        "height": 18,
+        "top": 242,
+        "right": 380,
+        "bottom": 260,
+        "left": 365.921875
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile list 1",
+      "text": "Fast Bill\n\nBranding\n\nMotion Design\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 205.6875,
+        "top": 300,
+        "right": 380,
+        "bottom": 505.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "Fast Bill\n\nBranding\n\nMotion Design\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 205.6875,
+        "top": 300,
+        "right": 380,
+        "bottom": 505.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 159.6875,
+        "top": 300,
+        "right": 380,
+        "bottom": 459.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 182.5,
+        "height": 159.265625,
+        "top": 300,
+        "right": 192.5,
+        "bottom": 459.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 299.71875,
+        "width": 182.5,
+        "height": 159.265625,
+        "top": 299.71875,
+        "right": 192.5,
+        "bottom": 458.984375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 197.5,
+        "y": 300,
+        "width": 182.5,
+        "height": 159.6875,
+        "top": 300,
+        "right": 380,
+        "bottom": 459.6875,
+        "left": 197.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Fast Bill\n\nBranding\n\nMotion Design\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 469.6875,
+        "width": 370,
+        "height": 36,
+        "top": 469.6875,
+        "right": 380,
+        "bottom": 505.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 469.6875,
+        "width": 370,
+        "height": 18,
+        "top": 469.6875,
+        "right": 380,
+        "bottom": 487.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 469.6875,
+        "width": 370,
+        "height": 18,
+        "top": 469.6875,
+        "right": 380,
+        "bottom": 487.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Service",
+      "text": "Branding\n\nMotion Design",
+      "box": {
+        "x": 10,
+        "y": 487.6875,
+        "width": 246.65625,
+        "height": 18,
+        "top": 487.6875,
+        "right": 256.65625,
+        "bottom": 505.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Branding",
+      "box": {
+        "x": 10,
+        "y": 487.6875,
+        "width": 46.40625,
+        "height": 18,
+        "top": 487.6875,
+        "right": 56.40625,
+        "bottom": 505.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Motion Design",
+      "box": {
+        "x": 66.40625,
+        "y": 487.6875,
+        "width": 74.390625,
+        "height": 18,
+        "top": 487.6875,
+        "right": 140.796875,
+        "bottom": 505.6875,
+        "left": 66.40625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "2025",
+      "box": {
+        "x": 256.65625,
+        "y": 487.6875,
+        "width": 123.34375,
+        "height": 18,
+        "top": 487.6875,
+        "right": 380,
+        "bottom": 505.6875,
+        "left": 256.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "2025",
+      "box": {
+        "x": 256.65625,
+        "y": 487.6875,
+        "width": 123.34375,
+        "height": 18,
+        "top": 487.6875,
+        "right": 380,
+        "bottom": 505.6875,
+        "left": 256.65625
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile list 2",
+      "text": "Coffee Owl\n\nBranding\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 545.6875,
+        "width": 370,
+        "height": 205.6875,
+        "top": 545.6875,
+        "right": 380,
+        "bottom": 751.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "Coffee Owl\n\nBranding\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 545.6875,
+        "width": 370,
+        "height": 205.6875,
+        "top": 545.6875,
+        "right": 380,
+        "bottom": 751.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 545.6875,
+        "width": 370,
+        "height": 159.6875,
+        "top": 545.6875,
+        "right": 380,
+        "bottom": 705.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 197.5,
+        "y": 545.6875,
+        "width": 182.5,
+        "height": 159.265625,
+        "top": 545.6875,
+        "right": 380,
+        "bottom": 704.953125,
+        "left": 197.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 197.5,
+        "y": 545.40625,
+        "width": 182.5,
+        "height": 159.265625,
+        "top": 545.40625,
+        "right": 380,
+        "bottom": 704.671875,
+        "left": 197.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 545.6875,
+        "width": 182.5,
+        "height": 159.6875,
+        "top": 545.6875,
+        "right": 192.5,
+        "bottom": 705.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Coffee Owl\n\nBranding\n\n2025",
+      "box": {
+        "x": 10,
+        "y": 715.375,
+        "width": 370,
+        "height": 36,
+        "top": 715.375,
+        "right": 380,
+        "bottom": 751.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 715.375,
+        "width": 370,
+        "height": 18,
+        "top": 715.375,
+        "right": 380,
+        "bottom": 733.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 715.375,
+        "width": 370,
+        "height": 18,
+        "top": 715.375,
+        "right": 380,
+        "bottom": 733.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Service",
+      "text": "Branding",
+      "box": {
+        "x": 10,
+        "y": 733.375,
+        "width": 246.65625,
+        "height": 18,
+        "top": 733.375,
+        "right": 256.65625,
+        "bottom": 751.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Branding",
+      "box": {
+        "x": 10,
+        "y": 733.375,
+        "width": 46.40625,
+        "height": 18,
+        "top": 733.375,
+        "right": 56.40625,
+        "bottom": 751.375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "2025",
+      "box": {
+        "x": 256.65625,
+        "y": 733.375,
+        "width": 123.34375,
+        "height": 18,
+        "top": 733.375,
+        "right": 380,
+        "bottom": 751.375,
+        "left": 256.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Date",
+      "text": "2025",
+      "box": {
+        "x": 256.65625,
+        "y": 733.375,
+        "width": 123.34375,
+        "height": 18,
+        "top": 733.375,
+        "right": 380,
+        "bottom": 751.375,
+        "left": 256.65625
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 924,
+        "width": 390,
+        "height": 76,
+        "top": 924,
+        "right": 390,
+        "bottom": 1000,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 10,
+        "y": 924,
+        "width": 370,
+        "height": 46,
+        "top": 924,
+        "right": 380,
+        "bottom": 970,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 15,
+        "y": 952,
+        "width": 360,
+        "height": 18,
+        "top": 952,
+        "right": 375,
+        "bottom": 970,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 924,
+        "width": 45.90625,
+        "height": 18,
+        "top": 924,
+        "right": 60.90625,
+        "bottom": 942,
+        "left": 15
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 924,
+        "width": 45.90625,
+        "height": 18,
+        "top": 924,
+        "right": 60.90625,
+        "bottom": 942,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 924,
+        "width": 45.90625,
+        "height": 18,
+        "top": 924,
+        "right": 60.90625,
+        "bottom": 942,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 975,
+        "width": 370,
+        "height": 5,
+        "top": 975,
+        "right": 380,
+        "bottom": 980,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 231,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 369,
+        "bottom": 979,
+        "left": 231
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 240.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 359.5,
+        "bottom": 969,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 240.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 252.5,
+        "bottom": 971,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 262.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 359.5,
+        "bottom": 966,
+        "left": 262.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    }
+  ]
+}

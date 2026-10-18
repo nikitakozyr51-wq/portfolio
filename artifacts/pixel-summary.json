@@ -1,0 +1,48 @@
+{
+  "comparisons": 56,
+  "zero_differences": 53,
+  "differences": [
+    {
+      "page": "old-home",
+      "width": 1440,
+      "threshold": 12,
+      "compared_pixels": 898560,
+      "changed_pixels": 125,
+      "changed_percent": 0.013911,
+      "difference_bounds": [
+        1391,
+        909,
+        1407,
+        925
+      ]
+    },
+    {
+      "page": "old-home",
+      "width": 390,
+      "threshold": 12,
+      "compared_pixels": 243360,
+      "changed_pixels": 109,
+      "changed_percent": 0.04479,
+      "difference_bounds": [
+        341,
+        909,
+        358,
+        925
+      ]
+    },
+    {
+      "page": "categories__motion-direction__list",
+      "width": 390,
+      "threshold": 12,
+      "compared_pixels": 742695,
+      "changed_pixels": 819,
+      "changed_percent": 0.110274,
+      "difference_bounds": [
+        10,
+        2329,
+        380,
+        2342
+      ]
+    }
+  ]
+}

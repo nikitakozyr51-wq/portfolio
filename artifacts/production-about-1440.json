@@ -1,0 +1,1043 @@
+{
+  "text": "Nick Kozyrev\n\nworks\n\nabout\n\nget in touch\n\nabout\n\ntools\n\ncontact\n\nI create motion for brands, studios, and digital products\n\nabout\n\nI’m a motion and visual designer focused on 2D, faux 3D, lightweight 3D, and UI motion. I create showreels, advertising, product content, and branded motion, taking projects from concept to final animation.\n\nI also work on selected branding and logo projects, extending visual identities across static and digital formats.\n\nTools\n\nAfter Effects\n\nRive\n\nBlender\n\nPhotoshop\n\nIllustrator\n\nFigma\n\ncontact\n\nAvailable for freelance projects and collaborations.\n\ntelegram\n\n@desire2223\n\nBehance\n\nwww.behance.net\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 2599,
+  "width": 1440,
+  "images": [],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Desktop",
+      "text": "Nick Kozyrev\n\nworks\n\nabout\n\nget in touch",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 41,
+        "top": 0,
+        "right": 1440,
+        "bottom": 41,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 20,
+        "y": 20,
+        "width": 78.34375,
+        "height": 21,
+        "top": 20,
+        "right": 98.34375,
+        "bottom": 41,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "works",
+      "box": {
+        "x": 628.3125,
+        "y": 20,
+        "width": 36.34375,
+        "height": 21,
+        "top": 20,
+        "right": 664.65625,
+        "bottom": 41,
+        "left": 628.3125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "works",
+      "box": {
+        "x": 628.3125,
+        "y": 20,
+        "width": 36.34375,
+        "height": 21,
+        "top": 20,
+        "right": 664.65625,
+        "bottom": 41,
+        "left": 628.3125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "about",
+      "box": {
+        "x": 674.65625,
+        "y": 20,
+        "width": 35.34375,
+        "height": 21,
+        "top": 20,
+        "right": 710,
+        "bottom": 41,
+        "left": 674.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "about",
+      "box": {
+        "x": 674.65625,
+        "y": 20,
+        "width": 35.34375,
+        "height": 21,
+        "top": 20,
+        "right": 710,
+        "bottom": 41,
+        "left": 674.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "get in touch",
+      "box": {
+        "x": 730,
+        "y": 20,
+        "width": 690,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 730
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "get in touch",
+      "box": {
+        "x": 1349.078125,
+        "y": 20,
+        "width": 70.921875,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 1349.078125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "get in touch",
+      "box": {
+        "x": 1349.078125,
+        "y": 20,
+        "width": 70.921875,
+        "height": 21,
+        "top": 20,
+        "right": 1420,
+        "bottom": 41,
+        "left": 1349.078125
+      }
+    },
+    {
+      "tag": "MAIN",
+      "name": "Body",
+      "text": "about\n\ntools\n\ncontact\n\nI create motion for brands, studios, and digital products\n\nabout\n\nI’m a motio",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 2598.59375,
+        "top": 0,
+        "right": 1440,
+        "bottom": 2598.59375,
+        "left": 0
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Nav",
+      "text": "about\n\ntools\n\ncontact",
+      "box": {
+        "x": 20,
+        "y": 400,
+        "width": 690,
+        "height": 67,
+        "top": 400,
+        "right": 710,
+        "bottom": 467,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "about",
+      "text": "about",
+      "box": {
+        "x": 20,
+        "y": 400,
+        "width": 35.34375,
+        "height": 21,
+        "top": 400,
+        "right": 55.34375,
+        "bottom": 421,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "clients",
+      "text": "tools",
+      "box": {
+        "x": 20,
+        "y": 423,
+        "width": 29.078125,
+        "height": 21,
+        "top": 423,
+        "right": 49.078125,
+        "bottom": 444,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "contact",
+      "text": "contact",
+      "box": {
+        "x": 20,
+        "y": 446,
+        "width": 46.328125,
+        "height": 21,
+        "top": 446,
+        "right": 66.328125,
+        "bottom": 467,
+        "left": 20
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Group",
+      "text": "I create motion for brands, studios, and digital products\n\nabout\n\nI’m a motion and visual designer f",
+      "box": {
+        "x": 730,
+        "y": 20,
+        "width": 690,
+        "height": 2558.59375,
+        "top": 20,
+        "right": 1420,
+        "bottom": 2578.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 730,
+        "y": 20,
+        "width": 690,
+        "height": 200,
+        "top": 20,
+        "right": 1420,
+        "bottom": 220,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Hero",
+      "text": "I create motion for brands, studios, and digital products",
+      "box": {
+        "x": 730,
+        "y": 420,
+        "width": 690,
+        "height": 395.1875,
+        "top": 420,
+        "right": 1420,
+        "bottom": 815.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "I create motion for brands, studios, and digital products",
+      "box": {
+        "x": 730,
+        "y": 420,
+        "width": 621,
+        "height": 295.1875,
+        "top": 420,
+        "right": 1351,
+        "bottom": 715.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "H2",
+      "name": null,
+      "text": "I create motion for brands, studios, and digital products",
+      "box": {
+        "x": 730,
+        "y": 420,
+        "width": 621,
+        "height": 295.1875,
+        "top": 420,
+        "right": 1351,
+        "bottom": 715.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "About",
+      "text": "about\n\nI’m a motion and visual designer focused on 2D, faux 3D, lightweight 3D, and UI motion. I cre",
+      "box": {
+        "x": 730,
+        "y": 1015.1875,
+        "width": 690,
+        "height": 176,
+        "top": 1015.1875,
+        "right": 1420,
+        "bottom": 1191.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "about",
+      "box": {
+        "x": 730,
+        "y": 1015.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1015.1875,
+        "right": 1420,
+        "bottom": 1036.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "I’m a motion and visual designer focused on 2D, faux 3D, lightweight 3D, and UI motion. I create sho",
+      "box": {
+        "x": 730,
+        "y": 1066.1875,
+        "width": 552,
+        "height": 125,
+        "top": 1066.1875,
+        "right": 1282,
+        "bottom": 1191.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Service",
+      "text": "Tools",
+      "box": {
+        "x": 730,
+        "y": 1391.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1391.1875,
+        "right": 1420,
+        "bottom": 1412.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Tools",
+      "box": {
+        "x": 730,
+        "y": 1391.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1391.1875,
+        "right": 1420,
+        "bottom": 1412.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Clients",
+      "text": "After Effects\n\nRive\n\nBlender\n\nPhotoshop\n\nIllustrator\n\nFigma",
+      "box": {
+        "x": 730,
+        "y": 1612.1875,
+        "width": 690,
+        "height": 146,
+        "top": 1612.1875,
+        "right": 1420,
+        "bottom": 1758.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "List",
+      "text": "After Effects\n\nRive\n\nBlender\n\nPhotoshop\n\nIllustrator\n\nFigma",
+      "box": {
+        "x": 730,
+        "y": 1612.1875,
+        "width": 690,
+        "height": 146,
+        "top": 1612.1875,
+        "right": 1420,
+        "bottom": 1758.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "After Effects",
+      "box": {
+        "x": 730,
+        "y": 1612.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1612.1875,
+        "right": 1420,
+        "bottom": 1633.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "After Effects",
+      "box": {
+        "x": 730,
+        "y": 1612.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1612.1875,
+        "right": 1075,
+        "bottom": 1633.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Rive",
+      "box": {
+        "x": 730,
+        "y": 1637.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1637.1875,
+        "right": 1420,
+        "bottom": 1658.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "Rive",
+      "box": {
+        "x": 730,
+        "y": 1637.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1637.1875,
+        "right": 1075,
+        "bottom": 1658.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Blender",
+      "box": {
+        "x": 730,
+        "y": 1662.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1662.1875,
+        "right": 1420,
+        "bottom": 1683.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "Blender",
+      "box": {
+        "x": 730,
+        "y": 1662.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1662.1875,
+        "right": 1075,
+        "bottom": 1683.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Photoshop",
+      "box": {
+        "x": 730,
+        "y": 1687.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1687.1875,
+        "right": 1420,
+        "bottom": 1708.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "Photoshop",
+      "box": {
+        "x": 730,
+        "y": 1687.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1687.1875,
+        "right": 1075,
+        "bottom": 1708.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Illustrator",
+      "box": {
+        "x": 730,
+        "y": 1712.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1712.1875,
+        "right": 1420,
+        "bottom": 1733.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "Illustrator",
+      "box": {
+        "x": 730,
+        "y": 1712.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1712.1875,
+        "right": 1075,
+        "bottom": 1733.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Item",
+      "text": "Figma",
+      "box": {
+        "x": 730,
+        "y": 1737.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1737.1875,
+        "right": 1420,
+        "bottom": 1758.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Client",
+      "text": "Figma",
+      "box": {
+        "x": 730,
+        "y": 1737.1875,
+        "width": 345,
+        "height": 21,
+        "top": 1737.1875,
+        "right": 1075,
+        "bottom": 1758.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "contact\n\nAvailable for freelance projects and collaborations.\n\ntelegram\n\n@desire2223\n\nBehance\n\nwww.b",
+      "box": {
+        "x": 730,
+        "y": 1958.1875,
+        "width": 690,
+        "height": 260.40625,
+        "top": 1958.1875,
+        "right": 1420,
+        "bottom": 2218.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "contact\n\nAvailable for freelance projects and collaborations.\n\ntelegram\n\n@desire2223\n\nBehance\n\nwww.b",
+      "box": {
+        "x": 730,
+        "y": 1958.1875,
+        "width": 690,
+        "height": 260.40625,
+        "top": 1958.1875,
+        "right": 1420,
+        "bottom": 2218.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "contact\n\nAvailable for freelance projects and collaborations.",
+      "box": {
+        "x": 730,
+        "y": 1958.1875,
+        "width": 690,
+        "height": 72,
+        "top": 1958.1875,
+        "right": 1420,
+        "bottom": 2030.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "contact",
+      "box": {
+        "x": 730,
+        "y": 1958.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1958.1875,
+        "right": 1420,
+        "bottom": 1979.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "contacts",
+      "text": "contact",
+      "box": {
+        "x": 730,
+        "y": 1958.1875,
+        "width": 690,
+        "height": 21,
+        "top": 1958.1875,
+        "right": 1420,
+        "bottom": 1979.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Available for freelance projects and collaborations.",
+      "box": {
+        "x": 730,
+        "y": 2009.1875,
+        "width": 690,
+        "height": 21,
+        "top": 2009.1875,
+        "right": 1420,
+        "bottom": 2030.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Available for freelance projects and collaborations.",
+      "box": {
+        "x": 730,
+        "y": 2009.1875,
+        "width": 441,
+        "height": 21,
+        "top": 2009.1875,
+        "right": 1171,
+        "bottom": 2030.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Email",
+      "text": "telegram\n\n@desire2223",
+      "box": {
+        "x": 730,
+        "y": 2060.1875,
+        "width": 690,
+        "height": 64.203125,
+        "top": 2060.1875,
+        "right": 1420,
+        "bottom": 2124.390625,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "telegram",
+      "box": {
+        "x": 730,
+        "y": 2060.1875,
+        "width": 53.546875,
+        "height": 21,
+        "top": 2060.1875,
+        "right": 783.546875,
+        "bottom": 2081.1875,
+        "left": 730
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button XL",
+      "text": "@desire2223",
+      "box": {
+        "x": 730,
+        "y": 2085.1875,
+        "width": 184,
+        "height": 39.203125,
+        "top": 2085.1875,
+        "right": 914,
+        "bottom": 2124.390625,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "@desire2223",
+      "box": {
+        "x": 730,
+        "y": 2085.1875,
+        "width": 184,
+        "height": 35.203125,
+        "top": 2085.1875,
+        "right": 914,
+        "bottom": 2120.390625,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Email",
+      "text": "Behance\n\nwww.behance.net",
+      "box": {
+        "x": 730,
+        "y": 2154.390625,
+        "width": 690,
+        "height": 64.203125,
+        "top": 2154.390625,
+        "right": 1420,
+        "bottom": 2218.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Behance",
+      "box": {
+        "x": 730,
+        "y": 2154.390625,
+        "width": 53.640625,
+        "height": 21,
+        "top": 2154.390625,
+        "right": 783.640625,
+        "bottom": 2175.390625,
+        "left": 730
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button XL",
+      "text": "www.behance.net",
+      "box": {
+        "x": 730,
+        "y": 2179.390625,
+        "width": 252.015625,
+        "height": 39.203125,
+        "top": 2179.390625,
+        "right": 982.015625,
+        "bottom": 2218.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "www.behance.net",
+      "box": {
+        "x": 730,
+        "y": 2179.390625,
+        "width": 252.015625,
+        "height": 35.203125,
+        "top": 2179.390625,
+        "right": 982.015625,
+        "bottom": 2214.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Spacer",
+      "text": "",
+      "box": {
+        "x": 730,
+        "y": 2418.59375,
+        "width": 690,
+        "height": 160,
+        "top": 2418.59375,
+        "right": 1420,
+        "bottom": 2578.59375,
+        "left": 730
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Background",
+      "text": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1000,
+        "top": 0,
+        "right": 1440,
+        "bottom": 1000,
+        "left": 0
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 2547.59375,
+        "width": 1440,
+        "height": 51,
+        "top": 2547.59375,
+        "right": 1440,
+        "bottom": 2598.59375,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 20,
+        "y": 2547.59375,
+        "width": 1400,
+        "height": 21,
+        "top": 2547.59375,
+        "right": 1420,
+        "bottom": 2568.59375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 30,
+        "y": 2547.59375,
+        "width": 115.453125,
+        "height": 21,
+        "top": 2547.59375,
+        "right": 145.453125,
+        "bottom": 2568.59375,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 1336.453125,
+        "y": 2547.59375,
+        "width": 73.546875,
+        "height": 21,
+        "top": 2547.59375,
+        "right": 1410,
+        "bottom": 2568.59375,
+        "left": 1336.453125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 1356.453125,
+        "y": 2547.59375,
+        "width": 53.546875,
+        "height": 21,
+        "top": 2547.59375,
+        "right": 1410,
+        "bottom": 2568.59375,
+        "left": 1356.453125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 1356.453125,
+        "y": 2547.59375,
+        "width": 53.546875,
+        "height": 21,
+        "top": 2547.59375,
+        "right": 1410,
+        "bottom": 2568.59375,
+        "left": 1356.453125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 20,
+        "y": 2573.59375,
+        "width": 1400,
+        "height": 5,
+        "top": 2573.59375,
+        "right": 1420,
+        "bottom": 2578.59375,
+        "left": 20
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 1281,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 1419,
+        "bottom": 979,
+        "left": 1281
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 1290.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 1409.5,
+        "bottom": 969,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 1290.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 1302.5,
+        "bottom": 971,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 1312.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 1409.5,
+        "bottom": 966,
+        "left": 1312.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 1280,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 1420,
+        "bottom": 980,
+        "left": 1280
+      }
+    }
+  ]
+}

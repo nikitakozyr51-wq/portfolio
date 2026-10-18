@@ -1,0 +1,2258 @@
+{
+  "text": "Nick Kozyrev\n\nmenu\n\n015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist\n\nBRANDING\n\nMOTION DESIGN\n\nFast Bill\n\nBRANDING\n\nCoffee Owl\n\nMOTION DESIGN\n\nKringga Showreel\n\nMOTION DESIGN\n\nTrustat\n\nMOTION DESIGN\n\nUnion Studio\n\nMOTION DESIGN\n\nGhost VPN\n\nMOTION DESIGN\n\nRIk Showreels \n\nMOTION DESIGN\n\nPunk Lab\n\nMOTION DESIGN\n\nMidnight Club\n\nMOTION DESIGN\n\nLightning\n\n2026 Nick Kozyrev.\n\ntelegram\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "height": 4773,
+  "width": 390,
+  "images": [],
+  "elements": [
+    {
+      "tag": "NAV",
+      "name": "Phone",
+      "text": "Nick Kozyrev\n\nmenu",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 38,
+        "top": 0,
+        "right": 390,
+        "bottom": 38,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Logo",
+      "text": "Nick Kozyrev",
+      "box": {
+        "x": 10,
+        "y": 20,
+        "width": 67.15625,
+        "height": 18,
+        "top": 20,
+        "right": 77.15625,
+        "bottom": 38,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Get in touch",
+      "text": "menu",
+      "box": {
+        "x": 205,
+        "y": 20,
+        "width": 175,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "menu",
+      "box": {
+        "x": 350.84375,
+        "y": 20,
+        "width": 29.15625,
+        "height": 18,
+        "top": 20,
+        "right": 380,
+        "bottom": 38,
+        "left": 350.84375
+      }
+    },
+    {
+      "tag": "MAIN",
+      "name": "Content",
+      "text": "015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist\n\nBRANDING\n\nMOTION DESIG",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 4772.65625,
+        "top": 0,
+        "right": 390,
+        "bottom": 4772.65625,
+        "left": 0
+      }
+    },
+    {
+      "tag": "SECTION",
+      "name": "Group",
+      "text": "015\n\nworks\n\nService\n\nall\n\nBranding\n\nMotion Design\n\nview\n\nmasonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 10,
+        "y": 120,
+        "width": 370,
+        "height": 140,
+        "top": 120,
+        "right": 380,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Num",
+      "text": "015",
+      "box": {
+        "x": 10,
+        "y": 120,
+        "width": 175,
+        "height": 18,
+        "top": 120,
+        "right": 185,
+        "bottom": 138,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Works",
+      "text": "works",
+      "box": {
+        "x": 205,
+        "y": 120,
+        "width": 175,
+        "height": 18,
+        "top": 120,
+        "right": 380,
+        "bottom": 138,
+        "left": 205
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Filter",
+      "text": "Service\n\nall\n\nBranding\n\nMotion Design",
+      "box": {
+        "x": 10,
+        "y": 178,
+        "width": 175,
+        "height": 82,
+        "top": 178,
+        "right": 185,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Service",
+      "box": {
+        "x": 10,
+        "y": 178,
+        "width": 38.578125,
+        "height": 18,
+        "top": 178,
+        "right": 48.578125,
+        "bottom": 196,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "all",
+      "box": {
+        "x": 10,
+        "y": 206,
+        "width": 11.328125,
+        "height": 18,
+        "top": 206,
+        "right": 21.328125,
+        "bottom": 224,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "all",
+      "box": {
+        "x": 10,
+        "y": 206,
+        "width": 11.328125,
+        "height": 18,
+        "top": 206,
+        "right": 21.328125,
+        "bottom": 224,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Branding",
+      "box": {
+        "x": 10,
+        "y": 224,
+        "width": 46.40625,
+        "height": 18,
+        "top": 224,
+        "right": 56.40625,
+        "bottom": 242,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Motion Design",
+      "box": {
+        "x": 10,
+        "y": 242,
+        "width": 74.390625,
+        "height": 18,
+        "top": 242,
+        "right": 84.390625,
+        "bottom": 260,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "View",
+      "text": "view\n\nmasonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 205,
+        "y": 178,
+        "width": 175,
+        "height": 82,
+        "top": 178,
+        "right": 380,
+        "bottom": 260,
+        "left": 205
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "view",
+      "box": {
+        "x": 356.21875,
+        "y": 178,
+        "width": 23.78125,
+        "height": 18,
+        "top": 178,
+        "right": 380,
+        "bottom": 196,
+        "left": 356.21875
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Variants",
+      "text": "masonry\n\ngrid\n\nlist",
+      "box": {
+        "x": 205,
+        "y": 206,
+        "width": 175,
+        "height": 54,
+        "top": 206,
+        "right": 380,
+        "bottom": 260,
+        "left": 205
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Secondary Mobile M",
+      "text": "masonry",
+      "box": {
+        "x": 334.375,
+        "y": 206,
+        "width": 45.625,
+        "height": 18,
+        "top": 206,
+        "right": 380,
+        "bottom": 224,
+        "left": 334.375
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "masonry",
+      "box": {
+        "x": 334.375,
+        "y": 206,
+        "width": 45.625,
+        "height": 18,
+        "top": 206,
+        "right": 380,
+        "bottom": 224,
+        "left": 334.375
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile M",
+      "text": "grid",
+      "box": {
+        "x": 360.3125,
+        "y": 224,
+        "width": 19.6875,
+        "height": 18,
+        "top": 224,
+        "right": 380,
+        "bottom": 242,
+        "left": 360.3125
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "grid",
+      "box": {
+        "x": 360.3125,
+        "y": 224,
+        "width": 19.6875,
+        "height": 18,
+        "top": 224,
+        "right": 380,
+        "bottom": 242,
+        "left": 360.3125
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Secondary Mobile M",
+      "text": "list",
+      "box": {
+        "x": 365.921875,
+        "y": 242,
+        "width": 14.078125,
+        "height": 18,
+        "top": 242,
+        "right": 380,
+        "bottom": 260,
+        "left": 365.921875
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "list",
+      "box": {
+        "x": 365.921875,
+        "y": 242,
+        "width": 14.078125,
+        "height": 18,
+        "top": 242,
+        "right": 380,
+        "bottom": 260,
+        "left": 365.921875
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "BRANDING\n\nMOTION DESIGN\n\nFast Bill",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 391.265625,
+        "top": 300,
+        "right": 380,
+        "bottom": 691.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "BRANDING\n\nMOTION DESIGN\n\nFast Bill",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 391.265625,
+        "top": 300,
+        "right": 380,
+        "bottom": 691.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "BRANDING\n\nMOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 363.265625,
+        "top": 300,
+        "right": 380,
+        "bottom": 663.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 300,
+        "width": 370,
+        "height": 361.953125,
+        "top": 300,
+        "right": 380,
+        "bottom": 661.953125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 299.34375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 299.34375,
+        "right": 380,
+        "bottom": 661.296875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "BRANDING\n\nMOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 583.859375,
+        "width": 310.796875,
+        "height": 59.40625,
+        "top": 583.859375,
+        "right": 340.796875,
+        "bottom": 643.265625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "BRANDING",
+      "box": {
+        "x": 30,
+        "y": 583.859375,
+        "width": 71.984375,
+        "height": 27.203125,
+        "top": 583.859375,
+        "right": 101.984375,
+        "bottom": 611.0625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "BRANDING",
+      "box": {
+        "x": 38,
+        "y": 587.859375,
+        "width": 55.984375,
+        "height": 19.203125,
+        "top": 587.859375,
+        "right": 93.984375,
+        "bottom": 607.0625,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 616.0625,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 616.0625,
+        "right": 132.078125,
+        "bottom": 643.265625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 620.0625,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 620.0625,
+        "right": 124.078125,
+        "bottom": 639.265625,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 673.265625,
+        "width": 370,
+        "height": 18,
+        "top": 673.265625,
+        "right": 380,
+        "bottom": 691.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 673.265625,
+        "width": 370,
+        "height": 18,
+        "top": 673.265625,
+        "right": 380,
+        "bottom": 691.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Fast Bill",
+      "box": {
+        "x": 10,
+        "y": 673.265625,
+        "width": 370,
+        "height": 18,
+        "top": 673.265625,
+        "right": 380,
+        "bottom": 691.265625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "BRANDING\n\nCoffee Owl",
+      "box": {
+        "x": 10,
+        "y": 731.265625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 731.265625,
+        "right": 380,
+        "bottom": 1122.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "BRANDING\n\nCoffee Owl",
+      "box": {
+        "x": 10,
+        "y": 731.265625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 731.265625,
+        "right": 380,
+        "bottom": 1122.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "BRANDING",
+      "box": {
+        "x": 10,
+        "y": 731.265625,
+        "width": 370,
+        "height": 363.265625,
+        "top": 731.265625,
+        "right": 380,
+        "bottom": 1094.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 731.265625,
+        "width": 370,
+        "height": 361.953125,
+        "top": 731.265625,
+        "right": 380,
+        "bottom": 1093.21875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 730.609375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 730.609375,
+        "right": 380,
+        "bottom": 1092.5625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "BRANDING",
+      "box": {
+        "x": 30,
+        "y": 1047.328125,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 1047.328125,
+        "right": 340.796875,
+        "bottom": 1074.53125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "BRANDING",
+      "box": {
+        "x": 30,
+        "y": 1047.328125,
+        "width": 71.984375,
+        "height": 27.203125,
+        "top": 1047.328125,
+        "right": 101.984375,
+        "bottom": 1074.53125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "BRANDING",
+      "box": {
+        "x": 38,
+        "y": 1051.328125,
+        "width": 55.984375,
+        "height": 19.203125,
+        "top": 1051.328125,
+        "right": 93.984375,
+        "bottom": 1070.53125,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 1104.53125,
+        "width": 370,
+        "height": 18,
+        "top": 1104.53125,
+        "right": 380,
+        "bottom": 1122.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 1104.53125,
+        "width": 370,
+        "height": 18,
+        "top": 1104.53125,
+        "right": 380,
+        "bottom": 1122.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Coffee Owl",
+      "box": {
+        "x": 10,
+        "y": 1104.53125,
+        "width": 370,
+        "height": 18,
+        "top": 1104.53125,
+        "right": 380,
+        "bottom": 1122.53125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nKringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1162.53125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 1162.53125,
+        "right": 380,
+        "bottom": 1553.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nKringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1162.53125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 1162.53125,
+        "right": 380,
+        "bottom": 1553.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 1162.53125,
+        "width": 370,
+        "height": 363.265625,
+        "top": 1162.53125,
+        "right": 380,
+        "bottom": 1525.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1162.53125,
+        "width": 370,
+        "height": 361.953125,
+        "top": 1162.53125,
+        "right": 380,
+        "bottom": 1524.484375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1161.875,
+        "width": 370,
+        "height": 361.953125,
+        "top": 1161.875,
+        "right": 380,
+        "bottom": 1523.828125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 1478.59375,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 1478.59375,
+        "right": 340.796875,
+        "bottom": 1505.796875,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 1478.59375,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 1478.59375,
+        "right": 132.078125,
+        "bottom": 1505.796875,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 1482.59375,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 1482.59375,
+        "right": 124.078125,
+        "bottom": 1501.796875,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Kringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1535.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1535.796875,
+        "right": 380,
+        "bottom": 1553.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Kringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1535.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1535.796875,
+        "right": 380,
+        "bottom": 1553.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Kringga Showreel",
+      "box": {
+        "x": 10,
+        "y": 1535.796875,
+        "width": 370,
+        "height": 18,
+        "top": 1535.796875,
+        "right": 380,
+        "bottom": 1553.796875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nTrustat",
+      "box": {
+        "x": 10,
+        "y": 1593.796875,
+        "width": 370,
+        "height": 391.265625,
+        "top": 1593.796875,
+        "right": 380,
+        "bottom": 1985.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nTrustat",
+      "box": {
+        "x": 10,
+        "y": 1593.796875,
+        "width": 370,
+        "height": 391.265625,
+        "top": 1593.796875,
+        "right": 380,
+        "bottom": 1985.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 1593.796875,
+        "width": 370,
+        "height": 363.265625,
+        "top": 1593.796875,
+        "right": 380,
+        "bottom": 1957.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1593.796875,
+        "width": 370,
+        "height": 361.953125,
+        "top": 1593.796875,
+        "right": 380,
+        "bottom": 1955.75,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 1593.140625,
+        "width": 370,
+        "height": 361.953125,
+        "top": 1593.140625,
+        "right": 380,
+        "bottom": 1955.09375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 1909.859375,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 1909.859375,
+        "right": 340.796875,
+        "bottom": 1937.0625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 1909.859375,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 1909.859375,
+        "right": 132.078125,
+        "bottom": 1937.0625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 1913.859375,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 1913.859375,
+        "right": 124.078125,
+        "bottom": 1933.0625,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Trustat",
+      "box": {
+        "x": 10,
+        "y": 1967.0625,
+        "width": 370,
+        "height": 18,
+        "top": 1967.0625,
+        "right": 380,
+        "bottom": 1985.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Trustat",
+      "box": {
+        "x": 10,
+        "y": 1967.0625,
+        "width": 370,
+        "height": 18,
+        "top": 1967.0625,
+        "right": 380,
+        "bottom": 1985.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Trustat",
+      "box": {
+        "x": 10,
+        "y": 1967.0625,
+        "width": 370,
+        "height": 18,
+        "top": 1967.0625,
+        "right": 380,
+        "bottom": 1985.0625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nUnion Studio",
+      "box": {
+        "x": 10,
+        "y": 2025.0625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2025.0625,
+        "right": 380,
+        "bottom": 2416.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nUnion Studio",
+      "box": {
+        "x": 10,
+        "y": 2025.0625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2025.0625,
+        "right": 380,
+        "bottom": 2416.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 2025.0625,
+        "width": 370,
+        "height": 363.265625,
+        "top": 2025.0625,
+        "right": 380,
+        "bottom": 2388.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2025.0625,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2025.0625,
+        "right": 380,
+        "bottom": 2387.015625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2024.40625,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2024.40625,
+        "right": 380,
+        "bottom": 2386.359375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 2341.125,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 2341.125,
+        "right": 340.796875,
+        "bottom": 2368.328125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 2341.125,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 2341.125,
+        "right": 132.078125,
+        "bottom": 2368.328125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 2345.125,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 2345.125,
+        "right": 124.078125,
+        "bottom": 2364.328125,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Union Studio",
+      "box": {
+        "x": 10,
+        "y": 2398.328125,
+        "width": 370,
+        "height": 18,
+        "top": 2398.328125,
+        "right": 380,
+        "bottom": 2416.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Union Studio",
+      "box": {
+        "x": 10,
+        "y": 2398.328125,
+        "width": 370,
+        "height": 18,
+        "top": 2398.328125,
+        "right": 380,
+        "bottom": 2416.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Union Studio",
+      "box": {
+        "x": 10,
+        "y": 2398.328125,
+        "width": 370,
+        "height": 18,
+        "top": 2398.328125,
+        "right": 380,
+        "bottom": 2416.328125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nGhost VPN",
+      "box": {
+        "x": 10,
+        "y": 2456.328125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2456.328125,
+        "right": 380,
+        "bottom": 2847.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nGhost VPN",
+      "box": {
+        "x": 10,
+        "y": 2456.328125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2456.328125,
+        "right": 380,
+        "bottom": 2847.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 2456.328125,
+        "width": 370,
+        "height": 363.265625,
+        "top": 2456.328125,
+        "right": 380,
+        "bottom": 2819.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2456.328125,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2456.328125,
+        "right": 380,
+        "bottom": 2818.28125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2455.671875,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2455.671875,
+        "right": 380,
+        "bottom": 2817.625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 2772.390625,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 2772.390625,
+        "right": 340.796875,
+        "bottom": 2799.59375,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 2772.390625,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 2772.390625,
+        "right": 132.078125,
+        "bottom": 2799.59375,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 2776.390625,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 2776.390625,
+        "right": 124.078125,
+        "bottom": 2795.59375,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Ghost VPN",
+      "box": {
+        "x": 10,
+        "y": 2829.59375,
+        "width": 370,
+        "height": 18,
+        "top": 2829.59375,
+        "right": 380,
+        "bottom": 2847.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Ghost VPN",
+      "box": {
+        "x": 10,
+        "y": 2829.59375,
+        "width": 370,
+        "height": 18,
+        "top": 2829.59375,
+        "right": 380,
+        "bottom": 2847.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Ghost VPN",
+      "box": {
+        "x": 10,
+        "y": 2829.59375,
+        "width": 370,
+        "height": 18,
+        "top": 2829.59375,
+        "right": 380,
+        "bottom": 2847.59375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nRIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 2887.59375,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2887.59375,
+        "right": 380,
+        "bottom": 3278.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nRIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 2887.59375,
+        "width": 370,
+        "height": 391.265625,
+        "top": 2887.59375,
+        "right": 380,
+        "bottom": 3278.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 2887.59375,
+        "width": 370,
+        "height": 363.265625,
+        "top": 2887.59375,
+        "right": 380,
+        "bottom": 3250.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2887.59375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2887.59375,
+        "right": 380,
+        "bottom": 3249.546875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 2886.9375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 2886.9375,
+        "right": 380,
+        "bottom": 3248.890625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 3203.65625,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 3203.65625,
+        "right": 340.796875,
+        "bottom": 3230.859375,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 3203.65625,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 3203.65625,
+        "right": 132.078125,
+        "bottom": 3230.859375,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 3207.65625,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 3207.65625,
+        "right": 124.078125,
+        "bottom": 3226.859375,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "RIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 3260.859375,
+        "width": 370,
+        "height": 18,
+        "top": 3260.859375,
+        "right": 380,
+        "bottom": 3278.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "RIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 3260.859375,
+        "width": 370,
+        "height": 18,
+        "top": 3260.859375,
+        "right": 380,
+        "bottom": 3278.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "RIk Showreels ",
+      "box": {
+        "x": 10,
+        "y": 3260.859375,
+        "width": 370,
+        "height": 18,
+        "top": 3260.859375,
+        "right": 380,
+        "bottom": 3278.859375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nPunk Lab",
+      "box": {
+        "x": 10,
+        "y": 3318.859375,
+        "width": 370,
+        "height": 391.265625,
+        "top": 3318.859375,
+        "right": 380,
+        "bottom": 3710.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nPunk Lab",
+      "box": {
+        "x": 10,
+        "y": 3318.859375,
+        "width": 370,
+        "height": 391.265625,
+        "top": 3318.859375,
+        "right": 380,
+        "bottom": 3710.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 3318.859375,
+        "width": 370,
+        "height": 363.265625,
+        "top": 3318.859375,
+        "right": 380,
+        "bottom": 3682.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3318.859375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 3318.859375,
+        "right": 380,
+        "bottom": 3680.8125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3318.203125,
+        "width": 370,
+        "height": 361.953125,
+        "top": 3318.203125,
+        "right": 380,
+        "bottom": 3680.15625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 3634.921875,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 3634.921875,
+        "right": 340.796875,
+        "bottom": 3662.125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 3634.921875,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 3634.921875,
+        "right": 132.078125,
+        "bottom": 3662.125,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 3638.921875,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 3638.921875,
+        "right": 124.078125,
+        "bottom": 3658.125,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Punk Lab",
+      "box": {
+        "x": 10,
+        "y": 3692.125,
+        "width": 370,
+        "height": 18,
+        "top": 3692.125,
+        "right": 380,
+        "bottom": 3710.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Punk Lab",
+      "box": {
+        "x": 10,
+        "y": 3692.125,
+        "width": 370,
+        "height": 18,
+        "top": 3692.125,
+        "right": 380,
+        "bottom": 3710.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Punk Lab",
+      "box": {
+        "x": 10,
+        "y": 3692.125,
+        "width": 370,
+        "height": 18,
+        "top": 3692.125,
+        "right": 380,
+        "bottom": 3710.125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nMidnight Club",
+      "box": {
+        "x": 10,
+        "y": 3750.125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 3750.125,
+        "right": 380,
+        "bottom": 4141.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nMidnight Club",
+      "box": {
+        "x": 10,
+        "y": 3750.125,
+        "width": 370,
+        "height": 391.265625,
+        "top": 3750.125,
+        "right": 380,
+        "bottom": 4141.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 3750.125,
+        "width": 370,
+        "height": 363.265625,
+        "top": 3750.125,
+        "right": 380,
+        "bottom": 4113.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3750.125,
+        "width": 370,
+        "height": 361.953125,
+        "top": 3750.125,
+        "right": 380,
+        "bottom": 4112.078125,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 3749.46875,
+        "width": 370,
+        "height": 361.953125,
+        "top": 3749.46875,
+        "right": 380,
+        "bottom": 4111.421875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 4066.1875,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 4066.1875,
+        "right": 340.796875,
+        "bottom": 4093.390625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 4066.1875,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 4066.1875,
+        "right": 132.078125,
+        "bottom": 4093.390625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 4070.1875,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 4070.1875,
+        "right": 124.078125,
+        "bottom": 4089.390625,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Midnight Club",
+      "box": {
+        "x": 10,
+        "y": 4123.390625,
+        "width": 370,
+        "height": 18,
+        "top": 4123.390625,
+        "right": 380,
+        "bottom": 4141.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Midnight Club",
+      "box": {
+        "x": 10,
+        "y": 4123.390625,
+        "width": 370,
+        "height": 18,
+        "top": 4123.390625,
+        "right": 380,
+        "bottom": 4141.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Midnight Club",
+      "box": {
+        "x": 10,
+        "y": 4123.390625,
+        "width": 370,
+        "height": 18,
+        "top": 4123.390625,
+        "right": 380,
+        "bottom": 4141.390625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Mobile card",
+      "text": "MOTION DESIGN\n\nLightning",
+      "box": {
+        "x": 10,
+        "y": 4181.390625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 4181.390625,
+        "right": 380,
+        "bottom": 4572.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Card",
+      "text": "MOTION DESIGN\n\nLightning",
+      "box": {
+        "x": 10,
+        "y": 4181.390625,
+        "width": 370,
+        "height": 391.265625,
+        "top": 4181.390625,
+        "right": 380,
+        "bottom": 4572.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 10,
+        "y": 4181.390625,
+        "width": 370,
+        "height": 363.265625,
+        "top": 4181.390625,
+        "right": 380,
+        "bottom": 4544.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Media",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 4181.390625,
+        "width": 370,
+        "height": 361.953125,
+        "top": 4181.390625,
+        "right": 380,
+        "bottom": 4543.34375,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Mask",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 4180.734375,
+        "width": 370,
+        "height": 361.953125,
+        "top": 4180.734375,
+        "right": 380,
+        "bottom": 4542.6875,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Categories",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 4497.453125,
+        "width": 310.796875,
+        "height": 27.203125,
+        "top": 4497.453125,
+        "right": 340.796875,
+        "bottom": 4524.65625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 30,
+        "y": 4497.453125,
+        "width": 102.078125,
+        "height": 27.203125,
+        "top": 4497.453125,
+        "right": 132.078125,
+        "bottom": 4524.65625,
+        "left": 30
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "MOTION DESIGN",
+      "box": {
+        "x": 38,
+        "y": 4501.453125,
+        "width": 86.078125,
+        "height": 19.203125,
+        "top": 4501.453125,
+        "right": 124.078125,
+        "bottom": 4520.65625,
+        "left": 38
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "Lightning",
+      "box": {
+        "x": 10,
+        "y": 4554.65625,
+        "width": 370,
+        "height": 18,
+        "top": 4554.65625,
+        "right": 380,
+        "bottom": 4572.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Lightning",
+      "box": {
+        "x": 10,
+        "y": 4554.65625,
+        "width": 370,
+        "height": 18,
+        "top": 4554.65625,
+        "right": 380,
+        "bottom": 4572.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Title",
+      "text": "Lightning",
+      "box": {
+        "x": 10,
+        "y": 4554.65625,
+        "width": 370,
+        "height": 18,
+        "top": 4554.65625,
+        "right": 380,
+        "bottom": 4572.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "name": "Footer",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 0,
+        "y": 4696.65625,
+        "width": 390,
+        "height": 76,
+        "top": 4696.65625,
+        "right": 390,
+        "bottom": 4772.65625,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Group",
+      "text": "2026 Nick Kozyrev.\n\ntelegram",
+      "box": {
+        "x": 10,
+        "y": 4696.65625,
+        "width": 370,
+        "height": 46,
+        "top": 4696.65625,
+        "right": 380,
+        "bottom": 4742.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Legal",
+      "text": "2026 Nick Kozyrev.",
+      "box": {
+        "x": 15,
+        "y": 4724.65625,
+        "width": 360,
+        "height": 18,
+        "top": 4724.65625,
+        "right": 375,
+        "bottom": 4742.65625,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Contact",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4696.65625,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4696.65625,
+        "right": 60.90625,
+        "bottom": 4714.65625,
+        "left": 15
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Button M",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4696.65625,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4696.65625,
+        "right": 60.90625,
+        "bottom": 4714.65625,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Press",
+      "text": "telegram",
+      "box": {
+        "x": 15,
+        "y": 4696.65625,
+        "width": 45.90625,
+        "height": 18,
+        "top": 4696.65625,
+        "right": 60.90625,
+        "bottom": 4714.65625,
+        "left": 15
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Line",
+      "text": "",
+      "box": {
+        "x": 10,
+        "y": 4747.65625,
+        "width": 370,
+        "height": 5,
+        "top": 4747.65625,
+        "right": 380,
+        "bottom": 4752.65625,
+        "left": 10
+      }
+    },
+    {
+      "tag": "A",
+      "name": "Light",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Backdrop",
+      "text": "",
+      "box": {
+        "x": 231,
+        "y": 943,
+        "width": 138,
+        "height": 36,
+        "top": 943,
+        "right": 369,
+        "bottom": 979,
+        "left": 231
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Content",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "box": {
+        "x": 240.5,
+        "y": 953,
+        "width": 119,
+        "height": 16,
+        "top": 953,
+        "right": 359.5,
+        "bottom": 969,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "text": "",
+      "box": {
+        "x": 240.5,
+        "y": 951,
+        "width": 12,
+        "height": 20,
+        "top": 951,
+        "right": 252.5,
+        "bottom": 971,
+        "left": 240.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Text",
+      "text": "",
+      "box": {
+        "x": 262.5,
+        "y": 956,
+        "width": 97,
+        "height": 10,
+        "top": 956,
+        "right": 359.5,
+        "bottom": 966,
+        "left": 262.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Bottom",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    },
+    {
+      "tag": "DIV",
+      "name": "Border",
+      "text": "",
+      "box": {
+        "x": 230,
+        "y": 942,
+        "width": 140,
+        "height": 38,
+        "top": 942,
+        "right": 370,
+        "bottom": 980,
+        "left": 230
+      }
+    }
+  ]
+}
