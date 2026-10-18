@@ -1,12 +1,16 @@
-Портфолио — готовый сайт и исходники
+Начните с LOCAL-START.ru.md.
 
-Для просмотра после распаковки нужен Node.js 22+.
-Откройте терминал в этой папке и выполните npm start.
-Затем откройте http://localhost:4174 в браузере на этом же компьютере.
-npm install для просмотра не нужен: папка dist уже собрана.
-Открытие HTML двойным щелчком не заменяет запуск сервера.
+Вся работа собрана в одной папке:
+- готовый сайт: dist/
+- исходники и сборка: source/, src/, scripts/
+- макет Pencil: design/portfolio-draft.pen
+- изображения и шрифты макета: design/assets/, design/fonts/
+- план, проверки и снимки экрана: docs/, tests/, artifacts/
 
-Для повторной сборки: npm ci, затем npm run build.
-Проверки: npm test. Настройка Vercel: vercel.json.
-Все ограничения и результаты проверки: docs/ACCEPTANCE.ru.md.
-Pencil-макет скачивается отдельно из ветки download-pencil.
+Просмотр на компьютере с установленным Node.js 22 или новее:
+Windows — start-site.cmd
+macOS — start-site.command
+Любая система — node scripts/open-local.mjs в терминале этой папки.
+
+Распакуйте весь проект и откройте его папку как локальный проект Codex.
+Контекст для продолжения работы находится в AGENTS.md и LOCAL-START.ru.md.
