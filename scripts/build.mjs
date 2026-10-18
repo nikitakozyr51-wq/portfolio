@@ -81,7 +81,12 @@ for (const asset of manifest.assets) {
   let data = bytes;
   if (/\.(mjs|js)$/.test(relative)) data = transformModule(bytes.toString(), relative);
   else if (/\.(css|svg|json)$/.test(relative)) data = bytes.toString().replaceAll(ORIGIN, '/_framer');
-  await output(join(out, '_framer', relative), data);
+  // Vercel checks existing files before array rewrites. Keep image originals
+  // behind a fallback rewrite so query-specific CDN variants can win first.
+  const outputPath = relative.startsWith('images/')
+    ? join(out, '_original_images', relative.slice('images/'.length))
+    : join(out, '_framer', relative);
+  await output(outputPath, data);
   report.assets++;
 }
 for (const variant of variants) {
@@ -122,6 +127,10 @@ const rewrites = variants.map(v => {
   const u = new URL(v.url);
   return { source: '/_framer' + u.pathname, has: [...u.searchParams].map(([key, value]) => ({ type: 'query', key, value })), destination: '/_variants/' + v.file };
 }).sort((a, b) => b.has.length - a.has.length);
+for (const asset of manifest.assets) {
+  if (!asset.path.startsWith('_framer/images/')) continue;
+  rewrites.push({ source: '/' + asset.path, has: [], destination: '/_original_images/' + asset.path.slice('_framer/images/'.length) });
+}
 const vercel = { $schema: 'https://openapi.vercel.sh/vercel.json', framework: null, buildCommand: 'npm run build', outputDirectory: 'dist', cleanUrls: true, trailingSlash: false, rewrites, headers: [{ source: '/_framer/(.*)', headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }] }, { source: '/_variants/(.*)', headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }] }, { source: '/_site/(.*)', headers: [{ key: 'Cache-Control', value: 'public, max-age=0, must-revalidate' }] }] };
 // Keep the generated host configuration reviewable and checked in.
 await output(join(root, 'vercel.json'), JSON.stringify(vercel, null, 2) + '\n');

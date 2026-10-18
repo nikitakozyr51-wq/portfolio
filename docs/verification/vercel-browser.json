@@ -1,0 +1,23 @@
+{
+  "url": "https://temporary-instant-zephyr-z6e5ul3.vercel.app",
+  "results": [
+    {
+      "width": 1440,
+      "coffee_navigation": true,
+      "back": true,
+      "overflow": false,
+      "broken_visible_images": [],
+      "js_errors": [],
+      "framer_requests": 0
+    },
+    {
+      "width": 390,
+      "coffee_navigation": true,
+      "back": true,
+      "overflow": false,
+      "broken_visible_images": [],
+      "js_errors": [],
+      "framer_requests": 0
+    }
+  ]
+}
