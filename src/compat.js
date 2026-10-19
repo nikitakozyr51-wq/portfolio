@@ -3,7 +3,12 @@
   /* PORTFOLIO_CONFIG */
   const upstream = 'https://framerusercontent.com';
   const originalSite = 'https://desiredesign.framer.website';
-  const localize = value => typeof value === 'string' ? value.replaceAll(upstream, location.origin + '/_framer').replaceAll(originalSite, location.origin) : value;
+  const localize = value => {
+    if (typeof value !== 'string') return value;
+    const localized = value.replaceAll(upstream, location.origin + '/_framer').replaceAll(originalSite, location.origin);
+    if (!config.assetVersion) return localized;
+    return localized.replace(/\/_framer\/(?:sites|modules)\/[A-Za-z0-9_./~%-]+\.(?:mjs|js)(?:\?[^"'`\s<>]*)?/g, url => url.includes('portfolio-v=') ? url : url.replace(/(#.*)?$/, (_, fragment = '') => `${url.includes('?') ? '&' : '?'}portfolio-v=${config.assetVersion}${fragment}`));
+  };
   function embed(value) {
     if (typeof value !== 'string' || !value.includes('<iframe')) return undefined;
     const match = value.match(/<iframe\b[^>]*\bsrc=["'](https:\/\/kinescope\.io\/embed\/[A-Za-z0-9]+)["']/i);

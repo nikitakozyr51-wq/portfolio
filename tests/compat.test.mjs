@@ -3,8 +3,9 @@ import assert from 'node:assert/strict';
 import vm from 'node:vm';
 import { readFile } from 'node:fs/promises';
 
-const code = (await readFile(new URL('../src/compat.js', import.meta.url), 'utf8')).replace('/* PORTFOLIO_CONFIG */', 'const config = {fixEmbedVideos:false};');
-function setup(fetch) {
+const sourceCode = await readFile(new URL('../src/compat.js', import.meta.url), 'utf8');
+function setup(fetch, config = { fixEmbedVideos: false }) {
+  const code = sourceCode.replace('/* PORTFOLIO_CONFIG */', `const config = ${JSON.stringify(config)};`);
   const window = { fetch };
   vm.runInNewContext(code, { window, location: { origin: 'https://portfolio.example', href: 'https://portfolio.example/works/coffee-owl' }, URL, Request, Response, Uint8Array });
   return window;
@@ -45,4 +46,16 @@ test('URLs use the active deployment origin and embed HTML cannot become a video
   assert.equal(p.videoSource(embed), undefined);
   assert.equal(p.embed('<iframe src="https://untrusted.example/video">'), undefined);
   assert.equal(p.videoSource('https://framerusercontent.com/a.mp4'), 'https://portfolio.example/_framer/a.mp4');
+});
+
+test('new releases bypass cached modules without changing image variants or duplicating query parameters', () => {
+  const { __portfolio: p } = setup(async () => new Response(), { fixEmbedVideos: false, assetVersion: 'release-2' });
+  const prefix = 'https://portfolio.example/_framer';
+  assert.equal(p.localize('https://framerusercontent.com/sites/site/page.mjs'), prefix + '/sites/site/page.mjs?portfolio-v=release-2');
+  const module = prefix + '/modules/component.js?mode=1#part';
+  const versioned = prefix + '/modules/component.js?mode=1&portfolio-v=release-2#part';
+  assert.equal(p.localize(module), versioned);
+  assert.equal(p.localize(versioned), versioned);
+  assert.equal(p.localize('https://framerusercontent.com/images/a.png?width=390'), prefix + '/images/a.png?width=390');
+  assert.equal(p.localize('https://desiredesign.framer.website/about'), 'https://portfolio.example/about');
 });

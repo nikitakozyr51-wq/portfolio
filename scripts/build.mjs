@@ -27,6 +27,18 @@ const pageTitles = Object.fromEntries(inventory.map(item => {
 }));
 const report = { pages: [], assets: 0, cmsDecoders: 0, videoComponents: 0, brandedMetadata: 0, localizedStrings: 0, normalizedSourceLineEndings: 0, sourceIntegrity: true, siteURL: siteURL || null, config };
 const digest = data => createHash('sha256').update(data).digest('hex');
+// Adapted modules retain Framer's original filenames. Version their URLs so
+// an immutable browser cache cannot mix scripts from different releases.
+const adapterSources = await Promise.all(['scripts/build.mjs', 'src/compat.js'].map(async path => (await readFile(join(root, path), 'utf8')).replaceAll('\r\n', '\n')));
+const assetVersion = digest(JSON.stringify(config) + '\n' + adapterSources.join('\n')).slice(0, 12);
+report.assetVersion = assetVersion;
+function versionModuleURL(value) {
+  if (value.includes('portfolio-v=')) return value;
+  return value.replace(/(#.*)?$/, (_, fragment = '') => `${value.includes('?') ? '&' : '?'}portfolio-v=${assetVersion}${fragment}`);
+}
+function versionModuleReferences(value) {
+  return value.replace(/\/_framer\/(?:sites|modules)\/[A-Za-z0-9_./~%-]+\.(?:mjs|js)(?:\?[^"'`\s<>]*)?/g, versionModuleURL);
+}
 async function output(path, data) { await mkdir(resolve(path, '..'), { recursive: true }); await writeFile(path, data); }
 
 function verifiedSourceAsset(bytes, expected, relative) {
@@ -71,9 +83,10 @@ function transformModule(text, filename) {
       if (value === 'https://framer.com/edit/init.mjs') replacement = JSON.stringify('/_site/editor-stub.mjs');
       if (value.includes(ORIGIN) || value.includes(ORIGINAL_SITE)) {
         // Import declarations require a literal. Other URL values resolve against the current host.
-        replacement = parent?.source === node ? JSON.stringify(value.replaceAll(ORIGIN, '/_framer')) : `window.__portfolio.localize(${JSON.stringify(value)})`;
+        replacement = parent?.source === node ? JSON.stringify(versionModuleReferences(value.replaceAll(ORIGIN, '/_framer'))) : `window.__portfolio.localize(${JSON.stringify(value)})`;
         report.localizedStrings++;
       }
+      if (parent?.source === node && /^(?:\.\.?\/|\/_framer\/)/.test(value) && /\.(?:mjs|js)(?:[?#]|$)/.test(value)) replacement = JSON.stringify(versionModuleURL(value));
       if (config.fixTemplateMenu && filename.includes('script_main.')) {
         const menu = { oblica: config.name, 'hello@oblica.com': 'get in touch', 'mailto:hello@oblica.com': config.contactUrl, instagram: config.contactLabel, 'https://www.instagram.com/satto.studio/': config.contactUrl, '2025 oblica® All Rights Reserved.': '2026 Nick Kozyrev.' };
         if (Object.hasOwn(menu, value)) replacement = JSON.stringify(menu[value]);
@@ -124,7 +137,7 @@ for (const variant of variants) {
   await copyFile(join(source, 'variants', variant.file), join(out, '_variants', variant.file));
 }
 if (report.cmsDecoders !== 6 || report.brandedMetadata !== 12 || (config.fixEmbedVideos && report.videoComponents !== 1)) throw Error('Snapshot adapters did not match the expected generated code. Review before publishing.');
-const runtime = (await readFile(join(root, 'src/compat.js'), 'utf8')).replace('/* PORTFOLIO_CONFIG */', `const config = ${JSON.stringify({ ...config, pageTitles })};`);
+const runtime = (await readFile(join(root, 'src/compat.js'), 'utf8')).replace('/* PORTFOLIO_CONFIG */', `const config = ${JSON.stringify({ ...config, pageTitles, assetVersion })};`);
 await output(join(out, '_site/compat.js'), runtime);
 await output(join(out, '_site/navigation.css'), await readFile(join(root, 'src/navigation.css'), 'utf8'));
 await output(join(out, '_site/editor-stub.mjs'), 'export function createEditorBar(){ return () => null; }');
@@ -143,6 +156,7 @@ for (const item of inventory) {
   }
   html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/g, tag => tag.includes('https://events.framer.com/') || tag.includes('https://framer.com/edit/init.mjs') ? '' : tag);
   html = html.replaceAll(ORIGIN, '/_framer');
+  html = versionModuleReferences(html);
   if (config.fixEmbedVideos) html = html.replace(/<video\b(?:"[^"]*"|'[^']*'|[^'">])*?>/g, tag => {
     const source = /\bsrc="([^"]*)"/.exec(tag);
     const embedded = source?.[1].match(/https:\/\/kinescope\.io\/embed\/[A-Za-z0-9]+/);
@@ -153,7 +167,7 @@ for (const item of inventory) {
   if (siteURL) html = html.replaceAll(ORIGINAL_SITE, siteURL);
   else html = html.replace(/<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>/g, '').replace(/<meta\b[^>]*property="og:url"[^>]*>/g, '');
   html = html.replace(/<html\b/, `<html data-portfolio-hide-list="${Boolean(config.hideListView)}" data-portfolio-hide-news="${Boolean(config.hideNewsNavigation)}" data-portfolio-hide-framer-badge="${Boolean(config.hideFramerBadge)}"`);
-  html = html.replace('<head>', '<head>\n<link rel="stylesheet" href="/_site/navigation.css">\n<script src="/_site/compat.js"></script>');
+  html = html.replace('<head>', `<head>\n<link rel="stylesheet" href="/_site/navigation.css?v=${assetVersion}">\n<script src="/_site/compat.js?v=${assetVersion}"></script>`);
   await output(join(out, path === '/' ? 'index.html' : `${path.slice(1)}.html`), html);
   report.pages.push(path);
 }
