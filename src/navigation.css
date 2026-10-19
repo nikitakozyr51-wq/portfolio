@@ -1,0 +1,25 @@
+/* Shared presentation overrides; the original Framer snapshot stays intact. */
+html[data-portfolio-hide-framer-badge="true"] #__framer-badge-container {
+  display: none !important;
+}
+
+html[data-portfolio-hide-list="true"] a:is(
+  [href$="/works/list"],
+  [href$="/categories/branding/list"],
+  [href$="/categories/motion-direction/list"],
+  [href="./list"],
+  [href="./branding/list"],
+  [href="./motion-direction/list"]
+) {
+  display: none !important;
+}
+
+/* This wrapper is the News item in the shared mobile menu of this snapshot. */
+html[data-portfolio-hide-news="true"] .framer-6Jjvn .framer-1pry9w7-container,
+html[data-portfolio-hide-news="true"] :is(nav, header, [role="navigation"], .framer-6Jjvn) a:is(
+  [href="./news"],
+  [href="/news"],
+  [href$="/news"]
+) {
+  display: none !important;
+}

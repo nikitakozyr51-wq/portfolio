@@ -32,14 +32,21 @@
   "assets": 130,
   "cmsDecoders": 6,
   "videoComponents": 1,
+  "brandedMetadata": 12,
   "localizedStrings": 253,
+  "normalizedSourceLineEndings": 50,
   "sourceIntegrity": true,
   "siteURL": null,
   "config": {
     "name": "Nick Kozyrev",
+    "siteTitle": "Desire Design",
+    "hideFramerFavicon": true,
     "contactLabel": "telegram",
     "contactUrl": "https://t.me/desire2223",
     "fixTemplateMenu": true,
-    "fixEmbedVideos": true
+    "fixEmbedVideos": true,
+    "hideListView": true,
+    "hideNewsNavigation": true,
+    "hideFramerBadge": true
   }
 }

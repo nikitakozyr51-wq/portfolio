@@ -15,9 +15,33 @@ const manifest = JSON.parse(await readFile(join(source, 'mirror-manifest.json'))
 const htmlManifest = JSON.parse(await readFile(join(source, 'original-html-manifest.json')));
 const siteURL = (process.env.SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : '')).replace(/\/$/, '');
 if (siteURL && !/^https?:\/\/[^/]+$/.test(siteURL)) throw Error('SITE_URL must be an http(s) origin, without a path.');
-const report = { pages: [], assets: 0, cmsDecoders: 0, videoComponents: 0, localizedStrings: 0, sourceIntegrity: true, siteURL: siteURL || null, config };
+const pageTitles = Object.fromEntries(inventory.map(item => {
+  const path = new URL(item.url).pathname;
+  const base = path.replace(/\/(?:grid|list)$/, '');
+  let label = item.title.replace(/\s*-\s*My Framer Site$/, '').trim();
+  if (base === '/' || base === '/works') label = '';
+  else if (base.startsWith('/categories/')) label = base.includes('branding') ? 'Branding' : 'Motion Design';
+  else if (base === '/old-home') label = 'Archive';
+  else if (label === 'Portfolio' || label === 'desire.design') label = base.split('/').pop().split('-').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
+  return [path, label ? `${label} — ${config.siteTitle}` : config.siteTitle];
+}));
+const report = { pages: [], assets: 0, cmsDecoders: 0, videoComponents: 0, brandedMetadata: 0, localizedStrings: 0, normalizedSourceLineEndings: 0, sourceIntegrity: true, siteURL: siteURL || null, config };
 const digest = data => createHash('sha256').update(data).digest('hex');
 async function output(path, data) { await mkdir(resolve(path, '..'), { recursive: true }); await writeFile(path, data); }
+
+function verifiedSourceAsset(bytes, expected, relative) {
+  if (digest(bytes) === expected) return bytes;
+  // Windows Git may check text out with CRLF. Accept only the exact original
+  // checksum after reconstructing LF; every other content change still fails.
+  if (/\.(mjs|js|css|svg|json)$/.test(relative)) {
+    const normalized = Buffer.from(bytes.toString('utf8').replaceAll('\r\n', '\n'));
+    if (digest(normalized) === expected) {
+      report.normalizedSourceLineEndings++;
+      return normalized;
+    }
+  }
+  throw Error(`Source integrity mismatch: ${relative}`);
+}
 
 // Keep the published snapshot immutable; all adaptations happen in dist.
 await rm(out, { recursive: true, force: true });
@@ -32,6 +56,13 @@ function transformModule(text, filename) {
   const edits = [];
   function visit(node, parent) {
     if (!node || typeof node !== 'object') return;
+    // Framer also updates titles during client-side navigation. Adapt only its
+    // metadata objects, leaving component titles and project content untouched.
+    if (node.type === 'Property' && (node.key.name || node.key.value) === 'title' && parent?.type === 'ObjectExpression' && parent.properties.some(p => p.type === 'Property' && (p.key.name || p.key.value) === 'serializationId')) {
+      edits.push({ start: node.value.start, end: node.value.end, text: `window.__portfolio.pageTitle(${text.slice(node.value.start, node.value.end)})` });
+      report.brandedMetadata++;
+      return;
+    }
     let value;
     if (node.type === 'Literal' && typeof node.value === 'string') value = node.value;
     if (node.type === 'TemplateLiteral' && node.expressions.length === 0) value = node.quasis[0].value.cooked;
@@ -76,8 +107,7 @@ function transformModule(text, filename) {
 
 for (const asset of manifest.assets) {
   const relative = asset.path.replace(/^_framer\//, '');
-  const bytes = await readFile(join(source, 'assets', relative));
-  if (digest(bytes) !== asset.sha256_source) throw Error(`Source integrity mismatch: ${relative}`);
+  const bytes = verifiedSourceAsset(await readFile(join(source, 'assets', relative)), asset.sha256_source, relative);
   let data = bytes;
   if (/\.(mjs|js)$/.test(relative)) data = transformModule(bytes.toString(), relative);
   else if (/\.(css|svg|json)$/.test(relative)) data = bytes.toString().replaceAll(ORIGIN, '/_framer');
@@ -93,9 +123,10 @@ for (const variant of variants) {
   await mkdir(join(out, '_variants'), { recursive: true });
   await copyFile(join(source, 'variants', variant.file), join(out, '_variants', variant.file));
 }
-if (report.cmsDecoders !== 6 || (config.fixEmbedVideos && report.videoComponents !== 1)) throw Error('Snapshot adapters did not match the expected generated code. Review before publishing.');
-const runtime = (await readFile(join(root, 'src/compat.js'), 'utf8')).replace('/* PORTFOLIO_CONFIG */', `const config = ${JSON.stringify(config)};`);
+if (report.cmsDecoders !== 6 || report.brandedMetadata !== 12 || (config.fixEmbedVideos && report.videoComponents !== 1)) throw Error('Snapshot adapters did not match the expected generated code. Review before publishing.');
+const runtime = (await readFile(join(root, 'src/compat.js'), 'utf8')).replace('/* PORTFOLIO_CONFIG */', `const config = ${JSON.stringify({ ...config, pageTitles })};`);
 await output(join(out, '_site/compat.js'), runtime);
+await output(join(out, '_site/navigation.css'), await readFile(join(root, 'src/navigation.css'), 'utf8'));
 await output(join(out, '_site/editor-stub.mjs'), 'export function createEditorBar(){ return () => null; }');
 
 for (const item of inventory) {
@@ -103,6 +134,13 @@ for (const item of inventory) {
   let html = await readFile(join(source, 'html', `${item.slug}.html`), 'utf8');
   const expected = htmlManifest.find(entry => entry.file === `html/${item.slug}.html`);
   if (!expected || digest(html) !== expected.sha256) throw Error(`Source HTML integrity mismatch: ${item.slug}`);
+  const title = pageTitles[path].replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;');
+  html = html.replace(/<title>[\s\S]*?<\/title>/, `<title>${title}</title>`);
+  html = html.replace(/<meta\b[^>]*(?:property="og:title"|name="twitter:title")[^>]*>/g, tag => tag.replace(/content="[^"]*"/, `content="${title}"`));
+  if (config.hideFramerFavicon) {
+    html = html.replace(/[ \t]*<link\b[^>]*\brel=["'][^"']*icon[^"']*["'][^>]*>[ \t]*(?:\r?\n)?/gi, '');
+    html = html.replace('<head>', '<head>\n<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27/%3E">');
+  }
   html = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/g, tag => tag.includes('https://events.framer.com/') || tag.includes('https://framer.com/edit/init.mjs') ? '' : tag);
   html = html.replaceAll(ORIGIN, '/_framer');
   if (config.fixEmbedVideos) html = html.replace(/<video\b(?:"[^"]*"|'[^']*'|[^'">])*?>/g, tag => {
@@ -114,7 +152,8 @@ for (const item of inventory) {
   // Preserve source metadata until a deployment origin exists; never point canonical at Framer.
   if (siteURL) html = html.replaceAll(ORIGINAL_SITE, siteURL);
   else html = html.replace(/<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>/g, '').replace(/<meta\b[^>]*property="og:url"[^>]*>/g, '');
-  html = html.replace('<head>', '<head>\n<script src="/_site/compat.js"></script>');
+  html = html.replace(/<html\b/, `<html data-portfolio-hide-list="${Boolean(config.hideListView)}" data-portfolio-hide-news="${Boolean(config.hideNewsNavigation)}" data-portfolio-hide-framer-badge="${Boolean(config.hideFramerBadge)}"`);
+  html = html.replace('<head>', '<head>\n<link rel="stylesheet" href="/_site/navigation.css">\n<script src="/_site/compat.js"></script>');
   await output(join(out, path === '/' ? 'index.html' : `${path.slice(1)}.html`), html);
   report.pages.push(path);
 }

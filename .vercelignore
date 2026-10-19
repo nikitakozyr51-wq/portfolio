@@ -1,5 +1,14 @@
 node_modules
+.npm-cache
+.git
+.vercel
+.env*
 artifacts
 design
 docs
 tests
+dist
+*.md
+*.txt
+*.cmd
+*.command

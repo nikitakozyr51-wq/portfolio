@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  const config = {"name":"Nick Kozyrev","contactLabel":"telegram","contactUrl":"https://t.me/desire2223","fixTemplateMenu":true,"fixEmbedVideos":true};
+  const config = {"name":"Nick Kozyrev","siteTitle":"Desire Design","hideFramerFavicon":true,"contactLabel":"telegram","contactUrl":"https://t.me/desire2223","fixTemplateMenu":true,"fixEmbedVideos":true,"hideListView":true,"hideNewsNavigation":true,"hideFramerBadge":true,"pageTitles":{"/":"Desire Design","/old-home":"Archive — Desire Design","/about":"About — Desire Design","/works/grid":"Desire Design","/works/list":"Desire Design","/news":"News — Desire Design","/categories/branding":"Branding — Desire Design","/categories/motion-direction":"Motion Design — Desire Design","/categories/branding/grid":"Branding — Desire Design","/categories/motion-direction/grid":"Motion Design — Desire Design","/categories/branding/list":"Branding — Desire Design","/categories/motion-direction/list":"Motion Design — Desire Design","/news/digital-poetics":"Digital Poetics — Desire Design","/news/the-aesthetics-of-technology":"The Aesthetics Of Technology — Desire Design","/news/human-machines":"Human Machines — Desire Design","/news/generative-design":"Generative Design — Desire Design","/news/beyond-the-screen":"Beyond The Screen — Desire Design","/news/architecture-in-motion":"Architecture In Motion — Desire Design","/works/fast-bill":"Fast Bill — Desire Design","/works/coffee-owl":"Coffee Owl — Desire Design","/works/kringga-showreel":"Kringga Showreel — Desire Design","/works/trustat":"Trustat — Desire Design","/works/union-studio":"Union Studio — Desire Design","/works/ghost-vpn":"Ghost VPN — Desire Design","/works/rik-showreels":"RIk Showreels — Desire Design","/works/punk-lab":"Punk Lab — Desire Design","/works/midnight-club":"Midnight Club — Desire Design","/works/lightning":"Lightning — Desire Design"}};
   const upstream = 'https://framerusercontent.com';
   const originalSite = 'https://desiredesign.framer.website';
   const localize = value => typeof value === 'string' ? value.replaceAll(upstream, location.origin + '/_framer').replaceAll(originalSite, location.origin) : value;
@@ -9,7 +9,8 @@
     const match = value.match(/<iframe\b[^>]*\bsrc=["'](https:\/\/kinescope\.io\/embed\/[A-Za-z0-9]+)["']/i);
     return match?.[1];
   }
-  window.__portfolio = { localize, embed, videoSource: value => embed(value) ? undefined : localize(value) };
+  const pageTitle = value => config.pageTitles?.[location.pathname.replace(/\/$/, '') || '/'] || config.siteTitle || value;
+  window.__portfolio = { localize, embed, pageTitle, videoSource: value => embed(value) ? undefined : localize(value) };
 
   // Static hosts cannot answer Framer's multi-range query. The entire snapshot is
   // only 138 KB: cache full files once, then return the requested byte slices.

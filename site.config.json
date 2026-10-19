@@ -1,7 +1,12 @@
 {
   "name": "Nick Kozyrev",
+  "siteTitle": "Desire Design",
+  "hideFramerFavicon": true,
   "contactLabel": "telegram",
   "contactUrl": "https://t.me/desire2223",
   "fixTemplateMenu": true,
-  "fixEmbedVideos": true
+  "fixEmbedVideos": true,
+  "hideListView": true,
+  "hideNewsNavigation": true,
+  "hideFramerBadge": true
 }

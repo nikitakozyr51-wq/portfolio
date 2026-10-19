@@ -9,7 +9,8 @@
     const match = value.match(/<iframe\b[^>]*\bsrc=["'](https:\/\/kinescope\.io\/embed\/[A-Za-z0-9]+)["']/i);
     return match?.[1];
   }
-  window.__portfolio = { localize, embed, videoSource: value => embed(value) ? undefined : localize(value) };
+  const pageTitle = value => config.pageTitles?.[location.pathname.replace(/\/$/, '') || '/'] || config.siteTitle || value;
+  window.__portfolio = { localize, embed, pageTitle, videoSource: value => embed(value) ? undefined : localize(value) };
 
   // Static hosts cannot answer Framer's multi-range query. The entire snapshot is
   // only 138 KB: cache full files once, then return the requested byte slices.
